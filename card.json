@@ -298,7 +298,7 @@
             "grade": "1star",
             "code": "`THK_1`"
         }
- ],
+   ],
     "LSK_1": [
         {
             "name": "**✦ Le sserafim Sakura**",
@@ -308,7 +308,7 @@
             "grade": "1star",
             "code": "`LSK_1`"
         }
- ],
+   ],
     "LCW_1": [
         {
             "name": "**✦ Le sserafim Chaewon**",
@@ -318,7 +318,7 @@
             "grade": "1star",
             "code": "`LCW_1`"
         }
- ],
+   ],
     "LYJ_1": [
         {
             "name": "**✦ Le sserafim Yunjin**",
@@ -328,7 +328,7 @@
             "grade": "1star",
             "code": "`LYJ_1`"
         }
- ],
+   ],
     "LKZ_1": [
         {
             "name": "**✦ Le sserafim Kazuha**",
@@ -338,7 +338,7 @@
             "grade": "1star",
             "code": "`LKZ_1`"
         }
- ],
+   ],
     "LEC_1": [
         {
             "name": "**✦ Le sserafim Eunchae**",
@@ -348,7 +348,66 @@
             "grade": "1star",
             "code": "`LEC_1`"
         }
-
+   ],
+    "XGI_1": [
+        {
+            "name": "**✦ Xdinary Heroes Gunil**",
+            "image": "https://media.discordapp.net/attachments/1106972465235771452/1106989587773010051/bread_card2_20230514005923.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Xdinary Heroes",
+            "grade": "1star",
+            "code": "`XGI_1`"
+        }
+   ],
+    "XJS_1": [
+        {
+            "name": "**✦ Xdinary Heroes Jungsu**",
+            "image": "https://media.discordapp.net/attachments/1106972465235771452/1106989588079198208/bread_card2_20230514005900.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Xdinary Heroes",
+            "grade": "1star",
+            "code": "`XJS_1`"
+        }
+   ],
+    "XGO_1": [
+        {
+            "name": "**✦ Xdinary Heroes Gaon**",
+            "image": "https://media.discordapp.net/attachments/1106972465235771452/1106989588444098704/bread_card2_20230514005826.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Xdinary Heroes",
+            "grade": "1star",
+            "code": "`XGO_1`"
+        }
+   ],
+    "XOD_1": [
+        {
+            "name": "**✦ Xdinary Heroes O.De**",
+            "image": "https://media.discordapp.net/attachments/1106972465235771452/1106989588817387550/bread_card2_20230514005809.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Xdinary Heroes",
+            "grade": "1star",
+            "code": "`XOD_1`"
+        }
+   ],
+    "XJH_1": [
+        {
+            "name": "**✦ Xdinary Heroes Junhan**",
+            "image": "https://media.discordapp.net/attachments/1106972465235771452/1106989589199073330/bread_card2_20230514005746.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Xdinary Heroes",
+            "grade": "1star",
+            "code": "`XJH_1`"
+        }
+   ],
+    "XJY_1": [
+        {
+            "name": "**✦ Xdinary Heroes Jooyeon**",
+            "image": "https://media.discordapp.net/attachments/1106972465235771452/1106989589693997129/bread_card2_20230514005042.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Xdinary Heroes",
+            "grade": "1star",
+            "code": "`XJY_1`"
+        }
 
 
     ]
