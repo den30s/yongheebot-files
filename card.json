@@ -107,8 +107,98 @@
             "inv": "CIX",
             "grade": "1star",
             "code": "`CHS_1`"
-
-
         }
+    ],
+    "AKR_1": [
+        {
+            "name": "**✦ Aespa Karina**",
+            "image": "https://media.discordapp.net/attachments/1106737956514959360/1106788640748752906/bread_card_20230513114128.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "1star",
+            "code": "`AKR_1`"
+        }
+    ],
+    "AGS_1": [
+        {
+            "name": "**✦ Aespa Giselle**",
+            "image": "https://media.discordapp.net/attachments/1106737956514959360/1106788641096859730/bread_card_20230513114146.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "1star",
+            "code": "`AGS_1`"
+        }
+    ],
+    "AWN_1": [
+        {
+            "name": "**✦ Aespa Winter**",
+            "image": "https://media.discordapp.net/attachments/1106737956514959360/1106788641558237254/bread_card_20230513114155.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "1star",
+            "code": "`AWN_1`"
+        }
+    ],
+    "ANN_1": [
+        {
+            "name": "**✦ Aespa Ningning**",
+            "image": "https://media.discordapp.net/attachments/1106737956514959360/1106788641948303421/bread_card_20230513114138.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Aespa",
+            "grade": "1star",
+            "code": "`ANN_1`"
+        }
+    ],
+    "IYJ_1": [
+        {
+            "name": "**✦ Itzy Yeji**",
+            "image": "https://media.discordapp.net/attachments/1106737708321230889/1106738181308686336/bread_card_20230513081719.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Itzy",
+            "grade": "1star",
+            "code": "`IYJ_1`"
+        }
+    ],
+    "ILI_1": [
+        {
+            "name": "**✦ Itzy Lia**",
+            "image": "https://media.discordapp.net/attachments/1106737708321230889/1106738181711343656/bread_card_20230513081648.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Itzy",
+            "grade": "1star",
+            "code": "`ILI_1`"
+        }
+    ],
+    "IRJ_1": [
+        {
+            "name": "**✦ Itzy Ryujin**",
+            "image": "https://media.discordapp.net/attachments/1106737708321230889/1106738182122377326/bread_card_20230513081612.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Itzy",
+            "grade": "1star",
+            "code": "`IRJ_1`"
+        }
+    ],
+    "ICY_1": [
+        {
+            "name": "**✦ Itzy Chaeryeong**",
+            "image": "https://media.discordapp.net/attachments/1106737708321230889/1106738182550200320/bread_card_20230513081533.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Itzy",
+            "grade": "1star",
+            "code": "`ICY_1`"
+        }
+    ],
+    "IYN_1": [
+        {
+            "name": "**✦ Itzy Yuna**",
+            "image": "https://media.discordapp.net/attachments/1106737708321230889/1106738182990606416/bread_card_20230513080244.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Itzy",
+            "grade": "1star",
+            "code": "`IYN_1`"
+        }
+
+
     ]
 }
