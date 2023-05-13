@@ -198,6 +198,106 @@
             "grade": "1star",
             "code": "`IYN_1`"
         }
+   ],
+    "RIR_1": [
+        {
+            "name": "**✦ Red Velvet Irene**",
+            "image": "https://media.discordapp.net/attachments/1106737979654934589/1106830760322809877/bread_card_20230513142607.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RIR_1`"
+        }
+   ],
+    "RSG_1": [
+        {
+            "name": "**✦ Red Velvet Seulgi**",
+            "image": "https://media.discordapp.net/attachments/1106737979654934589/1106830760666746940/bread_card_20230513142504.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RSG_1`"
+        }
+   ],
+    "RWD_1": [
+        {
+            "name": "**✦ Red Velvet Wendy**",
+            "image": "https://media.discordapp.net/attachments/1106737979654934589/1106830761061007410/bread_card_20230513142442.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RWD_1`"
+        }
+   ],
+    "RJO_1": [
+        {
+            "name": "**✦ Red Velvet Joy*",
+            "image": "https://media.discordapp.net/attachments/1106737979654934589/1106830761501413427/bread_card_20230513142414.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RJO_1`"
+        }
+   ],
+    "RYR_1": [
+        {
+            "name": "**✦ Red Velvet Yeri**",
+            "image": "https://media.discordapp.net/attachments/1106737979654934589/1106830761501413427/bread_card_20230513142414.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RYR_1`"
+        }
+   ],
+    "TYJ_1": [
+        {
+            "name": "**✦ Tomorrow X Together Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1106726667315064952/1106841059075575958/bread_card_20230513150834.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TXT",
+            "grade": "1star",
+            "code": "`TYJ_1`"
+        }
+   ],
+    "TSB_1": [
+        {
+            "name": "**✦ Tomorrow X Together Soobin**",
+            "image": "https://media.discordapp.net/attachments/1106726667315064952/1106841059444666429/bread_card_20230513150801.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TXT",
+            "grade": "1star",
+            "code": "`TSB_1`"
+        }
+   ],
+    "TBG_1": [
+        {
+            "name": "**✦ Tomorrow X Together Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1106726667315064952/1106841059788595200/bread_card_20230513150738.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TXT",
+            "grade": "1star",
+            "code": "`TBG_1`"
+        }
+   ],
+    "TTH_1": [
+        {
+            "name": "**✦ Tomorrow X Together Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1106726667315064952/1106841060191260682/bread_card_20230513150717.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TXT",
+            "grade": "1star",
+            "code": "`TTH_1`"
+        }
+   ],
+    "THK_1": [
+        {
+            "name": "**✦ Tomorrow X Together Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1106726667315064952/1106841060501631147/bread_card_20230513150632.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TXT",
+            "grade": "1star",
+            "code": "`THK_1`"
+        }
 
 
     ]
