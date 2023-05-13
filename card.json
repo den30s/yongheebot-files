@@ -52,11 +52,56 @@
     "PJS_1": [
         {
             "name": "**✦ P1harmony Jongseob**",
-            "image": "https://media.discordapp.net/attachments/888325263371403317/1106581809841582261/bread_card_20230512215806.png?width=480&height=662",
+            "image": "https://media.discordapp.net/attachments/1106726649753518170/1106728091079954513/bread_card_20230512215806.png?width=480&height=662",
             "theme": "card1",
             "inv": "P1harmony",
             "grade": "1star",
             "code": "`PJS_1`"
+    ],
+    "CBX_1": [
+        {
+            "name": "**✦ CIX BX**",
+            "image": "https://media.discordapp.net/attachments/1106726611501453454/1106727962616791060/bread_card_20230513073234.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CBX_1`"
+    ],
+    "CSH_1": [
+        {
+            "name": "**✦ CIX Seunghun**",
+            "image": "https://media.discordapp.net/attachments/1106726611501453454/1106727963141099623/bread_card_20230513073211.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CSH_1`"
+    ],
+    "CYH_1": [
+        {
+            "name": "**✦ CIX Yonghee**",
+            "image": "https://media.discordapp.net/attachments/1106726611501453454/1106727963543732331/bread_card_20230513073143.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CYH_1`"
+    ],
+    "CBJ_1": [
+        {
+            "name": "**✦ CIX Bae Jinyoung**",
+            "image": "https://media.discordapp.net/attachments/1106726611501453454/1106727963950600322/bread_card_20230513073114.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CBJ_1`"
+    ],
+    "CHS_1": [
+        {
+            "name": "**✦ CIX Hyunsuk**",
+            "image": "https://media.discordapp.net/attachments/1106726611501453454/1106727964349038592/bread_card_20230513073031.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CHS_1`"
         }
     ]
 }
