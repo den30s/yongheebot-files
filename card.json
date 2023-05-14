@@ -408,6 +408,266 @@
             "grade": "1star",
             "code": "`XJY_1`"
         }
+  ],
+    "WSA_1": [
+        {
+            "name": "**✦ WJSN Seola**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WSA_1`"
+        }
+],
+    "WXY_1": [
+        {
+            "name": "**✦ WJSN Xuan Yi**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WXY_1`"
+        }
+],
+    "WBN_1": [
+        {
+            "name": "**✦ WJSN Bona**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WBN_1`"
+        }
+],
+    "WEX_1": [
+        {
+            "name": "**✦ WJSN Exy**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WXY_1`"
+        }
+],
+    "WSB_1": [
+        {
+            "name": "**✦ WJSN Soobin**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WSB_1`"
+        }
+],
+    "WLD_1": [
+        {
+            "name": "**✦ WJSN Luda**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WLD_1`"
+        }
+],
+    "WDW_1": [
+        {
+            "name": "**✦ WJSN Dawon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WDW_1`"
+        }
+],
+    "WES_1": [
+        {
+            "name": "**✦ WJSN Eunseo**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WES_1`"
+        }
+],
+    "WCX_1": [
+        {
+            "name": "**✦ WJSN Cheng Xiao**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WCX_1`"
+        }
+],
+    "WMQ_1": [
+        {
+            "name": "**✦ WJSN Mei QI**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WMQ_1`"
+        }
+],
+    "WSA_1": [
+        {
+            "name": "**✦ WJSN Yeoreum**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WYR_1`"
+        }
+],
+    "WDY_1": [
+        {
+            "name": "**✦ WJSN Dayoung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WDY_1`"
+        }
+],
+    "WYJ_1": [
+        {
+            "name": "**✦ WJSN Yeonjung**",
+            "image": "",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WSA_1`"
+        }
+],
+    "SSC_1": [
+        {
+            "name": "**✦ Seventeen S.Coups**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SSC_1`"
+        }
+],
+    "SJH_1": [
+        {
+            "name": "**✦ Seventeen Jeonghan**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SJH_1`"
+        }
+],
+    "SJS_1": [
+        {
+            "name": "**✦ Seventeen Joshua**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SJS_1`"
+        }
+],
+    "SJU_1": [
+        {
+            "name": "**✦ Seventeen Jun**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SJU_1`"
+        }
+],
+    "SHS_1": [
+        {
+            "name": "**✦ Seventeen Hoshi**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SHS_1`"
+        }
+],
+    "SWW_1": [
+        {
+            "name": "**✦ Seventeen Wonwoo**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SWW_1`"
+        }
+],
+    "SWZ_1": [
+        {
+            "name": "**✦ Seventeen Woozi**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SWZ_1`"
+        }
+],
+    "SDK_1": [
+        {
+            "name": "**✦ Seventeen DK**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SDK_1`"
+        }
+],
+    "SMG_1": [
+        {
+            "name": "**✦ Seventeen Mingyu**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SMG_1`"
+        }
+],
+    "STE_1": [
+        {
+            "name": "**✦ Seventeen The8**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`STE_1`"
+        }
+],
+    "SSK_1": [
+        {
+            "name": "**✦ Seventeen Seungkwan**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SSK_1`"
+        }
+],
+    "SVN_1": [
+        {
+            "name": "**✦ Seventeen Vernon**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SVN_1`"
+        }
+],
+    "SDN_1": [
+        {
+            "name": "**✦ Seventeen Dino**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Seventeen",
+            "grade": "1star",
+            "code": "`SDN_1`"
+        }
 
 
     ]
