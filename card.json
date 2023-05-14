@@ -668,6 +668,86 @@
             "grade": "1star",
             "code": "`SDN_1`"
         }
+],
+    "SMWZ_1": [
+        {
+            "name": "**✦ Soloist ♂ Woodz*",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1107341504361529406/bread_card_20230514232741.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMWZ_1`"
+        }
+],
+    "SMBH_1": [
+        {
+            "name": "**✦ Soloist ♂ Baekhyun*",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1107341504743219270/bread_card_Restored_20230515000512.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMBH_1`"
+        }
+],
+    "SMPJ_1": [
+        {
+            "name": "**✦ Soloist ♂ Park Jihoon*",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1107341505116508170/bread_card_Restored_20230515001011.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMPJ_1`"
+        }
+],
+    "SMKD_1": [
+        {
+            "name": "**✦ Soloist ♂ Kang Daniel*",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1107341505498185849/bread_card_Restored_20230515001446.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMKD_1`"
+        }
+],
+    "SFCH_1": [
+        {
+            "name": "**✦ Soloist ♀ Chungha*",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1107341567208984659/bread_card_20230514232851.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFCH_1`"
+        }
+],
+    "SFKE_1": [
+        {
+            "name": "**✦ Soloist ♀ Kwon Eunbi*",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1107341567611650098/bread_card_Restored_20230515000620.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFKE_1`"
+        }
+],
+    "SFTY_1": [
+        {
+            "name": "**✦ Soloist ♀ Taeyeon*",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1107341567984939027/bread_card_Restored_20230515000804.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFTY_1`"
+        }
+],
+    "SFYN_1": [
+        {
+            "name": "**✦ Soloist ♀ Yena*",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1107341568358223912/bread_card_Restored_20230515001301.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFYN_1`"
+        }
 
 
     ]
