@@ -748,7 +748,206 @@
             "grade": "1star",
             "code": "`SFYN_1`"
         }
-
+],
+    "FSR_1": [
+        {
+            "name": "**✦  fromis_9 Saerom**",
+            "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365692497477692/Untitled353_20230515015004.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "fromis_9",
+            "grade": "1star",
+            "code": "FSR_1"
+        } 
+],
+    "FHY_1": [
+        {
+            "name": "**✦  fromis_9 Hayoung**",
+            "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365693323751474/Untitled353_20230515015013.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "fromis_9",
+            "grade": "1star",
+            "code": "FHY_1"
+        } 
+],
+    "FJW_1": [
+        {
+            "name": "**✦  fromis_9 Jiwon**",
+            "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365693814476942/Untitled353_20230515015054.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "fromis_9",
+            "grade": "1star",
+            "code": "FSR_1"
+        } 
+],
+    "FGR_1": [
+        {
+            "name": "**✦  fromis_9 Gyuri**",
+            "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365694263279636/Untitled353_20230515015139.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "fromis_9",
+            "grade": "1star",
+            "code": "FGR_1"
+        } 
+],
+    "FJS_1": [
+        {
+            "name": "**✦  fromis_9 Jisun**",
+            "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365694766592100/Untitled353_20230515015214.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "fromis_9",
+            "grade": "1star",
+            "code": "FJS_1"
+        } 
+],
+    "FSY_1": [
+        {
+            "name": "**✦  fromis_9 Soyeon**",
+            "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365695248941117/Untitled353_20230515015249.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "fromis_9",
+            "grade": "1star",
+            "code": "FSY_1"
+        } 
+],
+    "FCY_1": [
+        {
+            "name": "**✦  fromis_9 Chaeyoung**",
+            "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365695613841469/Untitled353_20230515015328.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "fromis_9",
+            "grade": "1star",
+            "code": "FCY_1"
+        } 
+],
+    "FNG_1": [
+        {
+            "name": "**✦  fromis_9 Nagyung**",
+            "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365695995527258/Untitled353_20230515015407.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "fromis_9",
+            "grade": "1star",
+            "code": "FNG_1"
+        } 
+],
+    "FJH_1": [
+        {
+            "name": "**✦  fromis_9 Jiheon**",
+            "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365696368816148/Untitled353_20230515015448.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "fromis_9",
+            "grade": "1star",
+            "code": "FJH_1"
+        } 
+],
+    "TSY_1": [
+        {
+            "name": "**✦   THE BOYZ Sangyeon**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107570171293479012/Untitled358_20230515152026.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "TSY_1"
+        }
+],
+    "TJC_1": [
+        {
+            "name": "**✦  THE BOYZ Jacob**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107570171629011014/Untitled358_20230515152056.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "TJC_1"
+        }
+],
+    "TYH_1": [
+        {
+            "name": "**✦  THE BOYZ Younghoon**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107570172044263454/Untitled358_20230515152131.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "TYH_1"
+        } 
+],
+    "THJ_1": [
+        {
+            "name": "**✦  THE BOYZ Hyunjae**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107570172400775279/Untitled358_20230515152205.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "THJ_1"
+        }
+],
+    "TJU_1": [
+        {
+            "name": "**✦  THE BOYZ Juyeon**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107570172706947122/Untitled358_20230515152301.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "TJU_1"
+        } 
+],
+    "TKV_1": [
+        {
+            "name": "**✦  THE BOYZ Kevin**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107570173071867985/Untitled358_20230515152324.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "TKV_1"
+        } 
+],
+    "TNE_1": [
+        {
+            "name": "**✦  THE BOYZ New**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107570205242163281/Untitled358_20230515152358.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "TNE_1"
+        } 
+],
+    "TJQ_1": [
+        {
+            "name": "**✦  THE BOYZ Q**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107570205586104360/Untitled358_20230515152417.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "TJQ_1"
+        } 
+],
+    "TJH_1": [
+        {
+            "name": "**✦  THE BOYZ Juhaknyeon**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107586998052605952/Untitled358_20230515163451.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "TJH_1"
+        } 
+],
+    "TSW_1": [
+        {
+            "name": "**✦  THE BOYZ Sunwoo**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107570206542397470/Untitled358_20230515152511.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "TSW_1"
+        } 
+],
+    "TER_1": [
+        {
+            "name": "**✦  THE BOYZ Eric**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107570206819229756/Untitled358_20230515152533.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "TER_1"
+        } 
 
     ]
 }
