@@ -948,6 +948,175 @@
             "grade": "1star",
             "code": "TER_1"
         } 
-
+],
+    "TNY_1": [
+        {
+            "name": "**✦  TWICE Nayeon**",
+            "image": "https://media.discordapp.net/attachments/1106737734409793556/1107438193806151750/bread_card_Restored_20230515063338.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TWICE",
+            "grade": "1star",
+            "code": "TNY_1"
+        } 
+],
+    "TJY_1": [
+        {
+            "name": "**✦  TWICE Jeongyeon**",
+            "image": "https://media.discordapp.net/attachments/1106737734409793556/1107438194183655437/bread_card_Restored_20230515063312.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TWICE",
+            "grade": "1star",
+            "code": "TJY_1"
+        }
+],
+    "TMM_1": [
+        {
+            "name": "**✦  TWICE Momo**",
+            "image": "https://media.discordapp.net/attachments/1106737734409793556/1107438194598875177/bread_card_Restored_20230515063231.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TWICE",
+            "grade": "1star",
+            "code": "TMM_1"
+        }
+],
+    "TSN_1": [
+        {
+            "name": "**✦  TWICE Sana**",
+            "image": "https://media.discordapp.net/attachments/1106737734409793556/1107438195047669891/bread_card_Restored_20230515063207.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TWICE",
+            "grade": "1star",
+            "code": "TSN_1"
+        }
+],
+    "TJH_1": [
+        {
+            "name": "**✦  TWICE Jihyo**",
+            "image": "https://media.discordapp.net/attachments/1106737734409793556/1107438195492261998/bread_card_Restored_20230515063141.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TWICE",
+            "grade": "1star",
+            "code": "TJH_1"
+        }
+],
+    "TMN_1": [
+        {
+            "name": "**✦  TWICE Mina**",
+            "image": "https://media.discordapp.net/attachments/1106737734409793556/1107438195945263155/bread_card_Restored_20230515063117.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TWICE",
+            "grade": "1star",
+            "code": "TMN_1"
+        }
+],
+    "TDH_1": [
+        {
+            "name": "**✦  TWICE Dahyun**",
+            "image": "https://media.discordapp.net/attachments/1106737734409793556/1107438196310155344/bread_card_Restored_20230515063048.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TWICE",
+            "grade": "1star",
+            "code": "TDH_1"
+        }
+],
+    "TCY_1": [
+        {
+            "name": "**✦  TWICE Chaeyoung**",
+            "image": "https://media.discordapp.net/attachments/1106737734409793556/1107438196696027226/bread_card_Restored_20230515063023.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TWICE",
+            "grade": "1star",
+            "code": "TCY_1"
+        }
+],
+    "TTZ_1": [
+        {
+            "name": "**✦  TWICE Tzuyu**",
+            "image": "https://media.discordapp.net/attachments/1106737734409793556/1107438197065142322/bread_card_Restored_20230515062947.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TWICE",
+            "grade": "1star",
+            "code": "TTZ_1"
+        }
+],
+    "SBC_1": [
+        {
+            "name": "**✦  Stray Kids Bang Chan**",
+            "image": "https://media.discordapp.net/attachments/1106726732695867473/1107438325733785610/bread_card_Restored_20230515062111.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "1star",
+            "code": "SBC_1"
+        }
+],
+    "SLK_1": [
+        {
+            "name": "**✦  Stray Kids Lee Know**",
+            "image": "https://media.discordapp.net/attachments/1106726732695867473/1107438326094516334/bread_card_Restored_20230515062046.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "1star",
+            "code": "SLK_1"
+        }
+],
+    "SCB_1": [
+        {
+            "name": "**✦  Stray Kids Changbin**",
+            "image": "https://media.discordapp.net/attachments/1106726732695867473/1107438326526509086/bread_card_Restored_20230515062024.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "1star",
+            "code": "SCB_1"
+        }
+],
+    "SHJ_1": [
+        {
+            "name": "**✦  Stray Kids Hyunjin**",
+            "image": "https://media.discordapp.net/attachments/1106726732695867473/1107438326966919198/bread_card_Restored_20230515061956.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "1star",
+            "code": "SHJ_1"
+        }
+],
+    "SHA_1": [
+        {
+            "name": "**✦  Stray Kids Han**",
+            "image": "https://media.discordapp.net/attachments/1106726732695867473/1107438327365390347/bread_card_Restored_20230515061924.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "1star",
+            "code": "SHA_1"
+        }
+],
+    "SFL_1": [
+        {
+            "name": "**✦  Stray Kids Felix**",
+            "image": "https://media.discordapp.net/attachments/1106726732695867473/1107438327734476851/bread_card_Restored_20230515061904.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "1star",
+            "code": "SFL_1"
+        }
+],
+    "SSN_1": [
+        {
+            "name": "**✦  Stray Kids Seungmin**",
+            "image": "https://media.discordapp.net/attachments/1106726732695867473/1107438328090984549/bread_card_Restored_20230515061754.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "1star",
+            "code": "SSM_1"
+        }
+],
+    "SIN_1": [
+        {
+            "name": "**✦  Stray Kids I.N**",
+            "image": "https://media.discordapp.net/attachments/1106726732695867473/1107438328476868608/bread_card_Restored_20230515061729.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Stray Kids",
+            "grade": "1star",
+            "code": "SIN_1"
+        }
     ]
 }
