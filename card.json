@@ -151,7 +151,7 @@
     ],
     "IYJ_1": [
         {
-            "name": "**✦ Itzy Yeji**",
+            "name": "**✦ ITZY Yeji**",
             "image": "https://media.discordapp.net/attachments/1106737708321230889/1106958785370665032/bread_card2_20230513224651.png?width=480&height=662",
             "theme": "card1",
             "inv": "Itzy",
@@ -161,7 +161,7 @@
     ],
     "ILI_1": [
         {
-            "name": "**✦ Itzy Lia**",
+            "name": "**✦ ITZY Lia**",
             "image": "https://media.discordapp.net/attachments/1106737708321230889/1106958786163384391/bread_card2_20230513224727.png?width=480&height=662",
             "theme": "card1",
             "inv": "Itzy",
@@ -171,7 +171,7 @@
     ],
     "IRJ_1": [
         {
-            "name": "**✦ Itzy Ryujin**",
+            "name": "**✦ ITZY Ryujin**",
             "image": "https://media.discordapp.net/attachments/1106737708321230889/1106958786524090439/bread_card2_20230513224817.png?width=480&height=662",
             "theme": "card1",
             "inv": "Itzy",
@@ -181,7 +181,7 @@
     ],
     "ICY_1": [
         {
-            "name": "**✦ Itzy Chaeryeong**",
+            "name": "**✦ ITZY Chaeryeong**",
             "image": "https://media.discordapp.net/attachments/1106737708321230889/1106958787270680586/bread_card2_20230513224856.png?width=480&height=662",
             "theme": "card1",
             "inv": "Itzy",
@@ -191,7 +191,7 @@
     ],
     "IYN_1": [
         {
-            "name": "**✦ Itzy Yuna**",
+            "name": "**✦ ITZY Yuna**",
             "image": "https://media.discordapp.net/attachments/1106737708321230889/1106958787753029672/bread_card2_20230513224932.png?width=480&height=662",
             "theme": "card1",
             "inv": "Itzy",
@@ -301,7 +301,7 @@
    ],
     "LSK_1": [
         {
-            "name": "**✦ Le sserafim Sakura**",
+            "name": "**✦ le sserafim Sakura**",
             "image": "https://media.discordapp.net/attachments/1106737931063926854/1106959364310437989/bread_card2_20230513223340.png?width=480&height=662",
             "theme": "card1",
             "inv": "Le sserafim",
@@ -311,7 +311,7 @@
    ],
     "LCW_1": [
         {
-            "name": "**✦ Le sserafim Chaewon**",
+            "name": "**✦ le sserafim Chaewon**",
             "image": "https://media.discordapp.net/attachments/1106737931063926854/1106959364650188951/bread_card2_20230513223533.png?width=480&height=662",
             "theme": "card1",
             "inv": "Le sserafim",
@@ -321,7 +321,7 @@
    ],
     "LYJ_1": [
         {
-            "name": "**✦ Le sserafim Yunjin**",
+            "name": "**✦ le sserafim Yunjin**",
             "image": "https://media.discordapp.net/attachments/1106737931063926854/1106959366747336724/bread_card2_20230513223644.png?width=480&height=662",
             "theme": "card1",
             "inv": "Le sserafim",
@@ -331,7 +331,7 @@
    ],
     "LKZ_1": [
         {
-            "name": "**✦ Le sserafim Kazuha**",
+            "name": "**✦ le sserafim Kazuha**",
             "image": "https://media.discordapp.net/attachments/1106737931063926854/1106959367149994136/bread_card2_20230513223926.png?width=480&height=662",
             "theme": "card1",
             "inv": "Le sserafim",
@@ -341,7 +341,7 @@
    ],
     "LEC_1": [
         {
-            "name": "**✦ Le sserafim Eunchae**",
+            "name": "**✦ le sserafim Eunchae**",
             "image": "https://media.discordapp.net/attachments/1106737931063926854/1106959367783329862/bread_card2_20230513223949.png?width=480&height=662",
             "theme": "card1",
             "inv": "Le sserafim",
@@ -751,7 +751,7 @@
 ],
     "FSR_1": [
         {
-            "name": "**✦  fromis_9 Saerom**",
+            "name": "**✦  Fromis_9 Saerom**",
             "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365692497477692/Untitled353_20230515015004.png?width=480&height=662",
             "theme": "card1",
             "inv": "fromis_9",
@@ -761,7 +761,7 @@
 ],
     "FHY_1": [
         {
-            "name": "**✦  fromis_9 Hayoung**",
+            "name": "**✦  Fromis_9 Hayoung**",
             "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365693323751474/Untitled353_20230515015013.png?width=480&height=662",
             "theme": "card1",
             "inv": "fromis_9",
@@ -771,7 +771,7 @@
 ],
     "FJW_1": [
         {
-            "name": "**✦  fromis_9 Jiwon**",
+            "name": "**✦  Fromis_9 Jiwon**",
             "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365693814476942/Untitled353_20230515015054.png?width=480&height=662",
             "theme": "card1",
             "inv": "fromis_9",
@@ -781,7 +781,7 @@
 ],
     "FGR_1": [
         {
-            "name": "**✦  fromis_9 Gyuri**",
+            "name": "**✦  Fromis_9 Gyuri**",
             "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365694263279636/Untitled353_20230515015139.png?width=480&height=662",
             "theme": "card1",
             "inv": "fromis_9",
@@ -791,7 +791,7 @@
 ],
     "FJS_1": [
         {
-            "name": "**✦  fromis_9 Jisun**",
+            "name": "**✦  Fromis_9 Jisun**",
             "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365694766592100/Untitled353_20230515015214.png?width=480&height=662",
             "theme": "card1",
             "inv": "fromis_9",
@@ -801,7 +801,7 @@
 ],
     "FSY_1": [
         {
-            "name": "**✦  fromis_9 Soyeon**",
+            "name": "**✦  Fromis_9 Soyeon**",
             "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365695248941117/Untitled353_20230515015249.png?width=480&height=662",
             "theme": "card1",
             "inv": "fromis_9",
@@ -811,7 +811,7 @@
 ],
     "FCY_1": [
         {
-            "name": "**✦  fromis_9 Chaeyoung**",
+            "name": "**✦  Fromis_9 Chaeyoung**",
             "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365695613841469/Untitled353_20230515015328.png?width=480&height=662",
             "theme": "card1",
             "inv": "fromis_9",
@@ -821,7 +821,7 @@
 ],
     "FNG_1": [
         {
-            "name": "**✦  fromis_9 Nagyung**",
+            "name": "**✦  Fromis_9 Nagyung**",
             "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365695995527258/Untitled353_20230515015407.png?width=480&height=662",
             "theme": "card1",
             "inv": "fromis_9",
@@ -831,7 +831,7 @@
 ],
     "FJH_1": [
         {
-            "name": "**✦  fromis_9 Jiheon**",
+            "name": "**✦  Fromis_9 Jiheon**",
             "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365696368816148/Untitled353_20230515015448.png?width=480&height=662",
             "theme": "card1",
             "inv": "fromis_9",
