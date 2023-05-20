@@ -1519,7 +1519,7 @@
             "code": "ADH_1"
         }
  ],
- "AWO_1": [
+     "AWO_1": [
         {
             "name": "**✦ A.C.E Wow**",
             "image": "https://media.discordapp.net/attachments/1107664128224542841/1108753985424343090/Untitled366_20230518215135.png?width=480&height=662",
@@ -1558,7 +1558,7 @@
             "grade": "1star",
             "code": "ACH_1"
         }
-],
+   ],
     "NMJ_1": [
         {
             "name": "**✦ NewJeans Minji**",
@@ -1568,7 +1568,7 @@
             "grade": "1star",
             "code": "NMJ_1"
         }
-],
+   ],
     "NHN_1": [
         {
             "name": "**✦ NewJeans Hanni**",
@@ -1578,7 +1578,7 @@
             "grade": "1star",
             "code": "NHN_1"
         }
-],
+   ],
     "NDN_1": [
         {
             "name": "**✦ NewJeans Danielle**",
@@ -1588,7 +1588,7 @@
             "grade": "1star",
             "code": "NDN_1"
         }
-],
+   ],
     "NHR_1": [
         {
             "name": "**✦ NewJeans Haerin**",
@@ -1598,7 +1598,7 @@
             "grade": "1star",
             "code": "NHR_1"
         }
-],
+   ],
     "NHI_1": [
         {
             "name": "**✦ NewJeans Hyein**",
@@ -1608,7 +1608,7 @@
             "grade": "1star",
             "code": "NHN_1"
         }
-],
+   ],
     "OHJ_1": [
         {
             "name": "**✦ Oh My Girl Hyojung**",
@@ -1618,7 +1618,7 @@
             "grade": "1star",
             "code": "OHJ_1"
         }
-],
+   ],
     "OMM_1": [
         {
             "name": "**✦ Oh My Girl Mimi**",
@@ -1628,7 +1628,7 @@
             "grade": "1star",
             "code": "OMM_1"
         }
-],
+   ],
     "OYA_1": [
         {
             "name": "**✦ Oh My Girl YooA**",
@@ -1638,7 +1638,7 @@
             "grade": "1star",
             "code": "OYA_1"
         {
-],
+   ],
     "OYB_1": [
         {
             "name": "**✦ Oh My Girl Yubin**",
