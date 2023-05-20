@@ -1188,7 +1188,7 @@
             "grade": "1star",
             "code": "ENK_1"
         }
-],
+   ],
     "TCH_1": [
         {
             "name": "**✦ TREASURE Choi Hyunsuk**",
@@ -1198,7 +1198,7 @@
             "grade": "1star",
             "code": "TCH_1"
         }
-],
+   ],
     "TJI_1": [
         {
             "name": "**✦ TREASURE Jihoon**",
@@ -1208,7 +1208,7 @@
             "grade": "1star",
             "code": "TJI_1"
         }
-],
+   ],
     "TYS_1": [
         {
             "name": "**✦ TREASURE Yoshi**",
@@ -1218,7 +1218,7 @@
             "grade": "1star",
             "code": "TYS_1"
         }
-],
+   ],
     "TMS_1": [
         {
             "name": "**✦ TREASURE Mashiho**",
@@ -1228,7 +1228,7 @@
             "grade": "1star",
             "code": "TMS_1"
         }
-],
+   ],
     "TJK_1": [
         {
             "name": "**✦ TREASURE Junkyu**",
@@ -1238,7 +1238,7 @@
             "grade": "1star",
             "code": "TJK_1"
         }
-],
+   ],
     "TYJ_1": [
         {
             "name": "**✦ TREASURE Yoon Jaehyuk**",
@@ -1248,7 +1248,7 @@
             "grade": "1star",
             "code": "TYJ_1"
         }
-],
+   ],
     "TAS_1": [
         {
             "name": "**✦ TREASURE Asahi**",
@@ -1258,7 +1258,7 @@
             "grade": "1star",
             "code": "TAS_1"
         }
-],
+   ],
     "TBY_1": [
         {
             "name": "**✦ TREASURE Bang Yedam**",
@@ -1268,7 +1268,7 @@
             "grade": "1star",
             "code": "TBY_1"
         }
-],
+   ],
     "TDY_1": [
         {
             "name": "**✦ TREASURE Doyoung**",
@@ -1278,7 +1278,7 @@
             "grade": "1star",
             "code": "TDY_1"
         {
-],
+   ],
     "THR_1": [
         {
             "name": "**✦ TREASURE Haruto**",
@@ -1288,7 +1288,7 @@
             "grade": "1star",
             "code": "THR_1"
         {
-],
+   ],
     "TPJ_1": [
         {
             "name": "**✦ TREASURE Park Jeongwoo**",
@@ -1548,7 +1548,7 @@
             "grade": "1star",
             "code": "AKB_1"
         {
-],
+   ],
     "ACH_1": [
         {
             "name": "**✦ A.C.E Chan**",
