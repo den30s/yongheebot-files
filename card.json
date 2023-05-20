@@ -1678,6 +1678,181 @@
             "grade": "1star",
             "code": "OAR_1"
     }
+],
+ "AJW_1": [
+    {
+          "name": "**✦ AB6IX Jeon Woong**",
+            "image": "https://media.discordapp.net/attachments/1109485996774539346/1109488641086074982/Untitled374_20230520223032.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "1star",
+            "code": "AJW_1"
+    }
+],
+ "AKD_1": [
+    {
+          "name": "**✦ AB6IX Kim Donghyun**",
+            "image": "https://media.discordapp.net/attachments/1109485996774539346/1109488641601978459/Untitled374_20230520223048.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "1star",
+            "code": "AKD_1"
+    }
+],
+ "APW_1": [
+    {
+          "name": "**✦ AB6IX Park Woojin**",
+            "image": "https://media.discordapp.net/attachments/1109485996774539346/1109488642247897118/Untitled374_20230520223042.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "1star",
+            "code": "APW_1"
+    }
+],
+ "ALD_1": [
+    {
+          "name": "**✦ AB6IX Lee Daewhi**",
+            "image": "https://media.discordapp.net/attachments/1109485996774539346/1109488642612793394/Untitled374_20230520223054.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "AB6IX",
+            "grade": "1star",
+            "code": "ALD_1"
+    }
+],
+ "WLS_1": [
+    {
+          "name": "**✦ WEEEKLY Lee Soojin**",
+            "image": "https://media.discordapp.net/attachments/1109485965254332447/1109486458387054704/bread_card2_20230520222054.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "WEEEKLY",
+            "grade": "1star",
+            "code": "WLS_1"
+    }
+],
+ "WSJ_1": [
+    {
+          "name": "**✦ WEEEKLY Shin Jiyoon**",
+            "image": "https://media.discordapp.net/attachments/1109485965254332447/1109486459196547152/bread_card2_20230520222025.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "WEEEKLY",
+            "grade": "1star",
+            "code": "WSJ_1"
+    }
+],
+ "WMD_1": [
+    {
+          "name": "**✦ WEEEKLY Monday**",
+            "image": "https://media.discordapp.net/attachments/1109485965254332447/1109486459636953179/bread_card2_20230520221946.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "WEEEKLY",
+            "grade": "1star",
+            "code": "WMD_1"
+    }
+],
+ "WPS_1": [
+    {
+          "name": "**✦ WEEEKLY Park Soeun**",
+            "image": "https://media.discordapp.net/attachments/1109485965254332447/1109486460240937101/bread_card2_20230520221853.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "WEEEKLY",
+            "grade": "1star",
+            "code": "WPS_1"
+    }
+],
+ "WLJ_1": [
+    {
+          "name": "**✦ WEEEKLY Lee Jaehee**",
+            "image": "https://media.discordapp.net/attachments/1109485965254332447/1109486460668751913/bread_card2_20230520221813.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "WEEEKLY",
+            "grade": "1star",
+            "code": "WLJ_1"
+    }
+],
+],
+ "WJH_1": [
+    {
+          "name": "**✦ WEEEKLY Jihan*",
+            "image": "https://media.discordapp.net/attachments/1109485965254332447/1109486461134315610/bread_card2_20230520221702.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "WEEEKLY",
+            "grade": "1star",
+            "code": "WJH_1"
+    }
+],
+],
+ "WZA_1": [
+    {
+          "name": "**✦ WEEEKLY Zoa**",
+            "image": "https://media.discordapp.net/attachments/1109485965254332447/1109486461666996306/bread_card2_20230520221633.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "WEEEKLY",
+            "grade": "1star",
+            "code": "WZA_1"
+    }
+],
+ "SFIU_1": [
+    {
+          "name": "**✦ Soloist IU**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1108032049723486348/bread_card_Restored_20230516215933.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "SFIU_1"
+    }
+],
+ "SFJN_1": [
+    {
+          "name": "**✦ Soloist Jennie**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1108751089320337578/Untitled366_20230518214027.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "SFJN_1"
+    }
+],
+ "SFNY_1": [
+    {
+          "name": "**✦ Soloist Nayeon**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1109478808735711262/bread_card_Restored_20230520214943.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "SFNY_1"
+    }
+],
+],
+ "SMWH_1": [
+    {
+          "name": "**✦ Soloist Wonho**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1108691025708462080/bread_card_Wonho.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "SMWH_1"
+    }
+],
+ "SMKA_1": [
+    {
+          "name": "**✦ Soloist Kai**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1109478807993335808/bread_card_Restored_20230520205135.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "SMKA_1"
+    }
+],
+ "SMJI_1": [
+    {
+          "name": "**✦ Soloist Jin**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1109478808358228056/bread_card_Restored_20230520213936.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "SMJI_1"
+    }
+],
+
 
     ]
 }
