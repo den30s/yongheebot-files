@@ -1958,7 +1958,15 @@
             "grade": "1star",
             "code": "SSFYN_5"
         }
+],
+    "WYR_1": [
+        {
+            "name": "**✦ WJSN Yeoreum**",
+            "image": "https://media.discordapp.net/attachments/1106764196546355211/1107286124881248306/bread_card_20230514194711.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "WJSN",
+            "grade": "1star",
+            "code": "`WYR_1`"
+        }
    ]
-
-
 }
