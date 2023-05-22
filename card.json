@@ -909,16 +909,6 @@
             "code": "TJQ_1"
         } 
 ],
-    "TJH_1": [
-        {
-            "name": "**✦  THE BOYZ Juhaknyeon**",
-            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107586998052605952/Untitled358_20230515163451.png?width=480&height=662",
-            "theme": "card1",
-            "inv": "THE BOYZ",
-            "grade": "1star",
-            "code": "TJH_1"
-        } 
-],
     "TSW_1": [
         {
             "name": "**✦  THE BOYZ Sunwoo**",
@@ -1968,5 +1958,15 @@
             "grade": "1star",
             "code": "`WYR_1`"
         }
+],
+    "THN_1": [
+        {
+            "name": "**✦  THE BOYZ Juhaknyeon**",
+            "image": "https://media.discordapp.net/attachments/1106726688882184224/1107586998052605952/Untitled358_20230515163451.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "THN_1"
+        } 
    ]
 }
