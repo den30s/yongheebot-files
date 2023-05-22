@@ -1729,16 +1729,6 @@
             "code": "WLJ_1"
         }
    ],
-    "WJH_1": [
-        {
-            "name": "**✦ WEEEKLY Jihan**",
-            "image": "https://media.discordapp.net/attachments/1109485965254332447/1109486461134315610/bread_card2_20230520221702.png?width=480&height=662",
-            "theme": "card1",
-            "inv": "WEEEKLY",
-            "grade": "1star",
-            "code": "WJH_1"
-        }
-   ],
     "WZA_1": [
         {
             "name": "**✦ WEEEKLY Zoa**",
@@ -1847,6 +1837,16 @@
             "inv": "TREASURE",
             "grade": "1star",
             "code": "THR_1"
+        }
+   ],
+    "WJH_1": [
+        {
+            "name": "**✦ WEEEKLY Jihan**",
+            "image": "https://media.discordapp.net/attachments/1109485965254332447/1109486461134315610/bread_card2_20230520221702.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "WEEEKLY",
+            "grade": "1star",
+            "code": "WJH_1"
         }
    ]
 
