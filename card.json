@@ -1848,6 +1848,126 @@
             "grade": "1star",
             "code": "WJH_1"
         }
+   ],
+    "SCYH_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> CIX Yonghee**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1110136966382624830/poptart4_20230522170617.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`SCYH_5`"
+        }
+    ],
+    "SEHS_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> ENHYPEN Heeseung**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1109790832791392408/poptart2_20230521021937.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ENHYPEN",
+            "grade": "1star",
+            "code": "SEHS_5"
+        }
+    ],
+    "SASH_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> ATEEZ Seonghwa**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1109860438830743552/poptart6_20230521230602.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATEEZ",
+            "grade": "1star",
+            "code": "PASH_5"
+        }
+    ],
+    "SPIN_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> P1Harmony INTAK**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1109985682149081169/poptart8_20230522072231.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "P1Harmony",
+            "grade": "1star",
+            "code": "SPIN_5"
+        }
+    ],
+    "STER_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> THE BOYZ ERIC**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1110155734915747840/poptart11_20230522182642.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "THE BOYZ",
+            "grade": "1star",
+            "code": "STER_5"
+        }
+    ],
+    "SAWN_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> AESPA WINTER**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1110076303526330458/poptart9_20230522131641.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "AESPA",
+            "grade": "1star",
+            "code": "SAWN_5"
+        }
+    ],
+    "SIYJ_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> ITZY Yeji**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1110160784589344849/poptart12_20230522190036.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ITZY",
+            "grade": "1star",
+            "code": "SIYJ_5"
+        }
+    ],
+    "SLCW_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> LE SSERAFIM CHAEWON**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1109982674774392872/poptart7_20230521234147.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LE SSERAFIM",
+            "grade": "1star",
+            "code": "SLCW_5"
+        }
+    ],
+    "SNDN_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> NewJeans Danielle**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1109857018044485773/poptart5_20230521224627.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Newjeans",
+            "grade": "1star",
+            "code": "SNDN_5"
+        }
+    ],
+    "STSN_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> TWICE Sana**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1110136907075162112/poptart3_20230522172041.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "",
+            "grade": "1star",
+            "code": "STSN_5"
+        }
+    ],
+    "SSMWZ_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> Soloist Woodz**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1110005631689179136/poptart_temp_20230522083534.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "SSMWZ_5"
+        }
+    ],
+    "SSFYN_5": [
+        {
+            "name": "**<:aspecial:1108692977519444048> Soloist Yena**",
+            "image": "https://media.discordapp.net/attachments/1109727007132110858/1110163097768968193/poptart10_20230522174413.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "SSFYN_5"
+        }
    ]
 
 
