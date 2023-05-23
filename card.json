@@ -229,16 +229,6 @@
             "code": "`RWD_1`"
         }
    ],
-    "RJO_1": [
-        {
-            "name": "**✦ Red Velvet Joy**",
-            "image": "https://media.discordapp.net/attachments/1106737979654934589/1106959089336057966/bread_card2_20230513224550.png?width=480&height=662",
-            "theme": "card1",
-            "inv": "Red Velvet",
-            "grade": "1star",
-            "code": "`RJO_1`"
-        }
-   ],
     "RYR_1": [
         {
             "name": "**✦ Red Velvet Yeri**",
@@ -1997,6 +1987,16 @@
             "inv": "NCT DJJ",
             "grade": "1star",
             "code": "NDJW_1"
+        }
+   ],
+    "RJO_1": [
+        {
+            "name": "**✦ Red Velvet Joy**",
+            "image": "https://media.discordapp.net/attachments/1106737979654934589/1106959089336057966/bread_card2_20230513224550.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Red Velvet",
+            "grade": "1star",
+            "code": "`RJO_1`"
         } 
    ]
 }
