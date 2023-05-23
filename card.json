@@ -1968,5 +1968,35 @@
             "grade": "1star",
             "code": "THN_1"
         } 
+],
+    "NDDY_1": [
+        {
+            "name": "**✦  NCT DJJ Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1109766153049473044/1110443901258571867/bread_card_Doyoung.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "NCT DJJ",
+            "grade": "1star",
+            "code": "NDDY_1"
+        } 
+],
+    "NDJH_1": [
+        {
+            "name": "**✦  NCT DJJ Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1109766153049473044/1110443901522808942/bread_card_Jaehyun.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "NCT DJJ",
+            "grade": "1star",
+            "code": "NDDY_1"
+        } 
+],
+    "NDJW_1": [
+        {
+            "name": "**✦  NCT DJJ Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1109766153049473044/1110443901879336990/bread_card_Jungwoo.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "NCT DJJ",
+            "grade": "1star",
+            "code": "NDJW_1"
+        } 
    ]
 }
