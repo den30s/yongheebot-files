@@ -1979,6 +1979,16 @@
             "code": "`RYR_1`"
         }
    ],
+    "FSY_1": [
+        {
+            "name": "**✦  Fromis_9 Seoyeon**",
+            "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365695248941117/Untitled353_20230515015249.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Fromis_9",
+            "grade": "1star",
+            "code": "FSY_1"
+        }
+   ],
     "RJO_1": [
         {
             "name": "**✦ Red Velvet Joy**",
@@ -1987,16 +1997,6 @@
             "inv": "Red Velvet",
             "grade": "1star",
             "code": "`RJO_1`"
-        }
-],
-    "FSY_1": [
-        {
-            "name": "**✦  Fromis_9 Seoyeon**",
-            "image": "https://media.discordapp.net/attachments/1106972275036672111/1107365695248941117/Untitled353_20230515015249.png?width=480&height=662",
-            "theme": "card1",
-            "inv": "fromis_9",
-            "grade": "1star",
-            "code": "FSY_1"
         }
    ]
 }
