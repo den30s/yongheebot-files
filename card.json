@@ -2199,16 +2199,6 @@
             "code": "`KDY_1`"
         }
    ],
-    "KHK_1": [
-        {
-            "name": "**✦ Kep1er Hikaru**",
-            "image": "https://media.discordapp.net/attachments/1109766485502599188/1111195800484200538/Untitled23_20230525153000.png?width=480&height=662",
-            "theme": "card1",
-            "inv": "Kep1er",
-            "grade": "1star",
-            "code": "`KHK_1`"
-        }
-   ],
     "KHB_1": [
         {
             "name": "**✦ Kep1er Huening Bahiyyih**",
@@ -2237,6 +2227,16 @@
             "inv": "Kep1er",
             "grade": "1star",
             "code": "`KYO_1`"
+        }
+   ],
+    "KHK_1": [
+        {
+            "name": "**✦ Kep1er Hikaru**",
+            "image": "https://media.discordapp.net/attachments/1109766485502599188/1111195800484200538/Untitled23_20230525153000.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Kep1er",
+            "grade": "1star",
+            "code": "`KHK_1`"
         }
    ]
 }
