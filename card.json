@@ -1998,5 +1998,155 @@
             "grade": "1star",
             "code": "`RWD_1`"
         }
+   ],
+    "GMY_1": [
+        {
+            "name": "**✦ (G)I-DLE Miyeon**",
+            "image": "https://media.discordapp.net/attachments/1109766324688781394/1110527627057446972/bread_card3_20230523190825.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "(G)I-DLE",
+            "grade": "1star",
+            "code": "`GMY_1`"
+        }
+   ],
+    "GMN_1": [
+        {
+            "name": "**✦ (G)I-DLE Minnie**",
+            "image": "https://media.discordapp.net/attachments/1109766324688781394/1110527627325870202/bread_card3_20230523190910.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "(G)I-DLE",
+            "grade": "1star",
+            "code": "`GMN_1`"
+        }
+   ],
+    "GSY_1": [
+        {
+            "name": "**✦ (G)I-DLE Soyeon**",
+            "image": "https://media.discordapp.net/attachments/1109766324688781394/1110527627606896650/bread_card3_20230523190711.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "(G)I-DLE",
+            "grade": "1star",
+            "code": "`GSY_1`"
+        }
+   ],
+    "GYQ_1": [
+        {
+            "name": "**✦ (G)I-DLE Yuqi**",
+            "image": "https://media.discordapp.net/attachments/1109766324688781394/1110527627917279242/bread_card3_20230523191242.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "(G)I-DLE",
+            "grade": "1star",
+            "code": "`GYQ_1`"
+        }
+   ],
+    "GSH_1": [
+        {
+            "name": "**✦ (G)I-DLE Shuhua**",
+            "image": "https://media.discordapp.net/attachments/1109766324688781394/1110527628332503040/bread_card3_20230523190754.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "(G)I-DLE",
+            "grade": "1star",
+            "code": "`GSH_1`"
+        }
+   ],
+    "BJI_1": [
+        {
+            "name": "**✦ BLACKPINK Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1109766449439969280/1110334669666406420/jisoo.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "BLACKPINK",
+            "grade": "1star",
+            "code": "`BJI_1`"
+        }
+   ],
+    "BJN_1": [
+        {
+            "name": "**✦ BLACKPINK Jennie**",
+            "image": "https://media.discordapp.net/attachments/1109766449439969280/1110334669045645483/jennie.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "BLACKPINK",
+            "grade": "1star",
+            "code": "`BJN_1`"
+        }
+   ],
+    "BRS_1": [
+        {
+            "name": "**✦ BLACKPINK Rosé**",
+            "image": "https://media.discordapp.net/attachments/1109766449439969280/1110334669351825438/rose.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "BLACKPINK",
+            "grade": "1star",
+            "code": "`BRS_1`"
+        }
+   ],
+    "BLS_1": [
+        {
+            "name": "**✦ BLACKPINK Lisa**",
+            "image": "https://media.discordapp.net/attachments/1109766449439969280/1110334668663967744/lisa.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "BLACKPINK",
+            "grade": "1star",
+            "code": "`BLS_1`"
+        }
+   ],
+    "OHN_1": [
+        {
+            "name": "**✦ ONF Hyojin**",
+            "image": "https://media.discordapp.net/attachments/1109766236105089114/1110731168258719774/bread_card_Hyojin.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ONF",
+            "grade": "1star",
+            "code": "`OHN_1`"
+        }
+   ],
+    "OET_1": [
+        {
+            "name": "**✦ ONF E-Tion**",
+            "image": "https://media.discordapp.net/attachments/1109766236105089114/1110731168728490015/bread_card_E-Tion.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ONF",
+            "grade": "1star",
+            "code": "`OET_1`"
+        }
+   ],
+    "OJU_1": [
+        {
+            "name": "**✦ ONF J-US**",
+            "image": "https://media.discordapp.net/attachments/1109766236105089114/1110731169147912322/bread_card_J-Us.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ONF",
+            "grade": "1star",
+            "code": "`OJU_1`"
+        }
+   ],
+    "OWY_1": [
+        {
+            "name": "**✦ ONF Wyatt**",
+            "image": "https://media.discordapp.net/attachments/1109766236105089114/1110731169550569522/bread_card_Wyatt.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ONF",
+            "grade": "1star",
+            "code": "`OWY_1`"
+        }
+   ],
+    "OMK_1": [
+        {
+            "name": "**✦ ONF MK**",
+            "image": "https://media.discordapp.net/attachments/1109766236105089114/1110731169881923676/bread_card_Mk.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ONF",
+            "grade": "1star",
+            "code": "`OMK_1`"
+        }
+   ],
+    "OMU_1": [
+        {
+            "name": "**✦ ONF U**",
+            "image": "https://media.discordapp.net/attachments/1109766236105089114/1110731170292957194/bread_card_U.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ONF",
+            "grade": "1star",
+            "code": "`OMU_1`"
+        }
    ]
 }
