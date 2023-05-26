@@ -2238,5 +2238,185 @@
             "grade": "1star",
             "code": "`KHK_1`"
         }
+   ],
+    "ASH_1": [
+        {
+            "name": "**✦ ATEEZ Seonghwa**",
+            "image": "https://media.discordapp.net/attachments/1109766002201337866/1111446111014633503/Untitled23_20230526075958.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATEEZ",
+            "grade": "1star",
+            "code": "`ASH_1`"
+        }
+   ],
+    "AHJ_1": [
+        {
+            "name": "**✦ ATEEZ Hongjoong**",
+            "image": "https://media.discordapp.net/attachments/1109766002201337866/1111446111371141170/Untitled23_20230526080745.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATEEZ",
+            "grade": "1star",
+            "code": "`AHJ_1`"
+        }
+   ],
+    "AYH_1": [
+        {
+            "name": "**✦ ATEEZ Yunho**",
+            "image": "https://media.discordapp.net/attachments/1109766002201337866/1111446112000282734/Untitled23_20230526080213.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATEEZ",
+            "grade": "1star",
+            "code": "`AYH_1`"
+        }
+   ],
+    "AYS_1": [
+        {
+            "name": "**✦ ATEEZ Yeosang**",
+            "image": "https://media.discordapp.net/attachments/1109766002201337866/1111446112532971550/Untitled23_20230526080842.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATEEZ",
+            "grade": "1star",
+            "code": "`AYS_1`"
+        }
+   ],
+    "ASA_1": [
+        {
+            "name": "**✦ ATEEZ San**",
+            "image": "https://media.discordapp.net/attachments/1109766002201337866/1111446113145331712/Untitled23_20230526080245.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATEEZ",
+            "grade": "1star",
+            "code": "`ASA_1`"
+        }
+   ],
+    "AMG_1": [
+        {
+            "name": "**✦ ATEEZ Mingi**",
+            "image": "https://media.discordapp.net/attachments/1109766002201337866/1111446113732542514/Untitled23_20230526080145.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATEEZ",
+            "grade": "1star",
+            "code": "`AMG_1`"
+        }
+   ],
+    "AWY_1": [
+        {
+            "name": "**✦ ATEEZ Wooyoung**",
+            "image": "https://media.discordapp.net/attachments/1109766002201337866/1111446114110021702/Untitled23_20230526080034.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATEEZ",
+            "grade": "1star",
+            "code": "`AWY_1`"
+        }
+   ],
+    "AJH_1": [
+        {
+            "name": "**✦ ATEEZ Jongho**",
+            "image": "https://media.discordapp.net/attachments/1109766002201337866/1111446114525265981/Untitled23_20230526080115.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATEEZ",
+            "grade": "1star",
+            "code": "`AJH_1`"
+        }
+   ],
+    "SSU_1": [
+        {
+            "name": "**✦ STAYC Sumin**",
+            "image": "https://media.discordapp.net/attachments/1109766526594207848/1111257704363724800/Untitled23_20230525193638.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SSU_1`"
+        }
+   ],
+    "SSI_1": [
+        {
+            "name": "**✦ STAYC Sieun**",
+            "image": "https://media.discordapp.net/attachments/1109766526594207848/1111257704745422898/Untitled23_20230525193741.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SSI_1`"
+        }
+   ],
+    "SIS_1": [
+        {
+            "name": "**✦ STAYC ISA**",
+            "image": "https://media.discordapp.net/attachments/1109766526594207848/1111257705181614181/Untitled23_20230525193915.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SIS_1`"
+        }
+   ],
+    "SSE_1": [
+        {
+            "name": "**✦ STAYC Seeun**",
+            "image": "https://media.discordapp.net/attachments/1109766526594207848/1111257705580089385/Untitled23_20230525193832.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SSE_1`"
+        }
+   ],
+    "SYO_1": [
+        {
+            "name": "**✦ STAYC Yoon**",
+            "image": "https://media.discordapp.net/attachments/1109766526594207848/1111257706062422116/Untitled23_20230525193709.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SYO_1`"
+        }
+   ],
+    "SJJ_1": [
+        {
+            "name": "**✦ STAYC J**",
+            "image": "https://media.discordapp.net/attachments/1109766526594207848/1111257706062422116/Untitled23_20230525193709.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "STAYC",
+            "grade": "1star",
+            "code": "`SJJ_1`"
+        }
+   ],
+    "SMKE_1": [
+        {
+            "name": "**✦ Soloist Key**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1110594153995317351/key_20230523114125.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMKE_1`"
+        }
+   ],
+    "SMPN_1": [
+        {
+            "name": "**✦ Soloist Penomeco**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1110592329254973440/bread_card3_20230523233521.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMPN_1`"
+        }
+   ],
+    "SFJY_1": [
+        {
+            "name": "**✦ Soloist Jo Yuri**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1110338551742222376/jo_yuri.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFJY_1`"
+        }
+   ],
+    "SFHZ_1": [
+        {
+            "name": "**✦ Soloist Heize**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1110499352222384138/heize2.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFHZ_1`"
+        }
    ]
 }
