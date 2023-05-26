@@ -2418,5 +2418,65 @@
             "grade": "1star",
             "code": "`SFHZ_1`"
         }
+   ],
+    "MSN_1": [
+        {
+            "name": "**✦ MONSTA X Shownu**",
+            "image": "https://media.discordapp.net/attachments/1109766093901418547/1111211638658433044/bread_card_Shownu.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "MONSTA X",
+            "grade": "1star",
+            "code": "`MSN_1`"
+        }
+   ],
+    "MMH_1": [
+        {
+            "name": "**✦ MONSTA X Minhyuk**",
+            "image": "https://media.discordapp.net/attachments/1109766093901418547/1111211639136591892/bread_card_Minhyuk.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "MONSTA X",
+            "grade": "1star",
+            "code": "`MMH_1`"
+        }
+   ],
+    "MKH_1": [
+        {
+            "name": "**✦ MONSTA X Kihyun**",
+            "image": "https://media.discordapp.net/attachments/1109766093901418547/1111211639577006090/bread_card_Kihyun.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "MONSTA X",
+            "grade": "1star",
+            "code": "`MKH_1`"
+        }
+   ],
+    "MHW_1": [
+        {
+            "name": "**✦ MONSTA X Hyungwon**",
+            "image": "https://media.discordapp.net/attachments/1109766093901418547/1111211640097079356/bread_card_Hyungwon.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "MONSTA X",
+            "grade": "1star",
+            "code": "`MHW_1`"
+        }
+   ],
+    "MJH_1": [
+        {
+            "name": "**✦ MONSTA X Joohoney**",
+            "image": "https://media.discordapp.net/attachments/1109766093901418547/1111211640516530186/bread_card_Joohoney.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "MONSTA X",
+            "grade": "1star",
+            "code": "`MJH_1`"
+        }
+   ],
+    "MIM_1": [
+        {
+            "name": "**✦ MONSTA X I.M**",
+            "image": "https://media.discordapp.net/attachments/1109766093901418547/1111211640906580028/bread_card_I.M.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "MONSTA X",
+            "grade": "1star",
+            "code": "`MIM_1`"
+        }
    ]
 }
