@@ -2498,5 +2498,15 @@
             "grade": "1star",
             "code": "`LSMPN_3`"
         }
+    ],
+    "LZGW_3": [
+        {
+            "name": "**✦✦✦ ZEROBASEONE Gunwook**",
+            "image": "https://media.discordapp.net/attachments/1111914865796333618/1111986657516851291/poptart_20230520003830.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ZB1",
+            "grade": "1star",
+            "code": "LZGW_3"
+        }
    ]
 }
