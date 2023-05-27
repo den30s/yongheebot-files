@@ -2478,5 +2478,25 @@
             "grade": "1star",
             "code": "`MIM_1`"
         }
+   ],
+    "LSFHZ_3": [
+        {
+            "name": "**✦✦✦ Soloist Heize**",
+            "image": "https://media.discordapp.net/attachments/1111914865796333618/1111914972423925760/bread_card4_20230527151204.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`LSFHZ_3`"
+        }
+   ],
+    "LSMPN_3": [
+        {
+            "name": "**✦✦✦ Soloist Penomeco**",
+            "image": "https://media.discordapp.net/attachments/1111914865796333618/1111914972805595256/bread_card3_20230524104247.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`LSMPN_3`"
+        }
    ]
 }
