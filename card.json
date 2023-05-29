@@ -2508,5 +2508,135 @@
             "grade": "1star",
             "code": "LZGW_3"
         }
+   ],
+    "TKJ_1": [
+        {
+            "name": "**✦ TNX Kyungjun**",
+            "image": "https://media.discordapp.net/attachments/1112530419406086164/1112610903037321216/breadd_20230529131013.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`TKJ_1`"
+        }
+   ],
+    "TTN_1": [
+        {
+            "name": "**✦ TNX Taehun**",
+            "image": "https://media.discordapp.net/attachments/1112530419406086164/1112610903565811712/breadd_20230529130816.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`TTN_1`"
+        }
+   ],
+    "THS_1": [
+        {
+            "name": "**✦ TNX Hyunsoo**",
+            "image": "https://media.discordapp.net/attachments/1112530419406086164/1112610903989428224/breadd_20230529130856.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`THS_1`"
+        }
+   ],
+    "TJN_1": [
+        {
+            "name": "**✦ TNX Junhyeok**",
+            "image": "https://media.discordapp.net/attachments/1112530419406086164/1112610904459198554/breadd_20230529130938.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`TJN_1`"
+        }
+   ],
+    "THW_1": [
+        {
+            "name": "**✦ TNX Hwi**",
+            "image": "https://media.discordapp.net/attachments/1112530419406086164/1112610904949923840/breadd_20230529131630.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`THW_1`"
+        }
+   ],
+    "TSU_1": [
+        {
+            "name": "**✦ TNX Sungjun**",
+            "image": "https://media.discordapp.net/attachments/1112530419406086164/1112610905490997258/breadd_20230529131731.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "TNX",
+            "grade": "1star",
+            "code": "`TSU_1`"
+        }
+   ],
+    "VDH_1": [
+        {
+            "name": "**✦ VERIVERY Dongheon**",
+            "image": "https://media.discordapp.net/attachments/1112530525240971295/1112602774924963880/breadd_20230529124407.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "VERIVERY",
+            "grade": "1star",
+            "code": "`VDH_1`"
+        }
+   ],
+    "VHY_1": [
+        {
+            "name": "**✦ VERIVERY Hoyoung**",
+            "image": "https://media.discordapp.net/attachments/1112530525240971295/1112602775323418705/breadd_20230529124241.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "VERIVERY",
+            "grade": "1star",
+            "code": "`VHY_1`"
+        }
+   ],
+    "VMC_1": [
+        {
+            "name": "**✦ VERIVERY Minchan**",
+            "image": "https://media.discordapp.net/attachments/1112530525240971295/1112602775717691432/breadd_20230529124146.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "VERIVERY",
+            "grade": "1star",
+            "code": "`VMC_1`"
+        }
+   ],
+    "VGH_1": [
+        {
+            "name": "**✦ VERIVERY Gyehyeon**",
+            "image": "https://media.discordapp.net/attachments/1112530525240971295/1112602776292307075/breadd_20230529124306.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "VERIVERY",
+            "grade": "1star",
+            "code": "`VGH_1`"
+        }
+   ],
+    "VYH_1": [
+        {
+            "name": "**✦ VERIVERY Yeonho**",
+            "image": "https://media.discordapp.net/attachments/1112530525240971295/1112602776640430142/breadd_20230529124124.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "VERIVERY",
+            "grade": "1star",
+            "code": "`VYH_1`"
+        }
+   ],
+    "VYS_1": [
+        {
+            "name": "**✦ VERIVERY Yongseung**",
+            "image": "https://media.discordapp.net/attachments/1112530525240971295/1112602776988565535/breadd_20230529124050.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "VERIVERY",
+            "grade": "1star",
+            "code": "`VYS_1`"
+        }
+   ],
+    "VKM_1": [
+        {
+            "name": "**✦ VERIVERY Kangmin**",
+            "image": "https://media.discordapp.net/attachments/1112530525240971295/1112602777382826104/breadd_20230529124223.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "VERIVERY",
+            "grade": "1star",
+            "code": "`VKM_1`"
+        }
    ]
 }
