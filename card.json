@@ -2638,5 +2638,195 @@
             "grade": "1star",
             "code": "`VKM_1`"
         }
+   ],
+    "BMS_1": [
+        {
+            "name": "**✦ Billlie Moon Sua**",
+            "image": "https://media.discordapp.net/attachments/1112530626348847114/1112586089396449340/breadd_20230529113322.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Billlie",
+            "grade": "1star",
+            "code": "`BMS_1`"
+        }
+   ],
+    "BSH_1": [
+        {
+            "name": "**✦ Billlie Suhyeon**",
+            "image": "https://media.discordapp.net/attachments/1112530626348847114/1112586089962672228/breadd_20230529113431.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Billlie",
+            "grade": "1star",
+            "code": "`BSH_1`"
+        }
+   ],
+    "BHR_1": [
+        {
+            "name": "**✦ Billlie Haram**",
+            "image": "https://media.discordapp.net/attachments/1112530626348847114/1112586090478583981/breadd_20230529113232.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Billlie",
+            "grade": "1star",
+            "code": "`BHR_1`"
+        }
+   ],
+    "BTK_1": [
+        {
+            "name": "**✦ Billlie Tsuki**",
+            "image": "https://media.discordapp.net/attachments/1112530626348847114/1112586091019644958/breadd_20230529113259.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Billlie",
+            "grade": "1star",
+            "code": "`BTK_1`"
+        }
+   ],
+    "BSO_1": [
+        {
+            "name": "**✦ Billlie Sheon**",
+            "image": "https://media.discordapp.net/attachments/1112530626348847114/1112586091598450688/breadd_20230529113516.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Billlie",
+            "grade": "1star",
+            "code": "`BSO_1`"
+        }
+   ],
+    "BSY_1": [
+        {
+            "name": "**✦ Billlie Siyoon**",
+            "image": "https://media.discordapp.net/attachments/1112530626348847114/1112586092223410216/breadd_20230529113457.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Billlie",
+            "grade": "1star",
+            "code": "`BSY_1`"
+        }
+   ],
+    "BHN_1": [
+        {
+            "name": "**✦ Billlie Haruna**",
+            "image": "https://media.discordapp.net/attachments/1112530626348847114/1112586092760272986/breadd_20230529113539.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Billlie",
+            "grade": "1star",
+            "code": "`BHN_1`"
+        }
+   ],
+    "LVV_1": [
+        {
+            "name": "**✦ LOONA Vivi**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565763191091290/breadd_20230529100758.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LVV_1`"
+        }
+   ],
+    "LYV_1": [
+        {
+            "name": "**✦ LOONA Yves**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565763723759687/breadd_20230529100933.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LYV_1`"
+        }
+   ],
+    "LJS_1": [
+        {
+            "name": "**✦ LOONA Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565764248055908/breadd_20230529101114.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LJS_1`"
+        }
+   ],
+    "LHS_1": [
+        {
+            "name": "**✦ LOONA Haseul**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565764801695865/breadd_20230529100715.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LHS_1`"
+        }
+   ],
+    "LKL_1": [
+        {
+            "name": "**✦ LOONA Kim Lip**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565765346951231/breadd_20230529101033.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LKL_1`"
+        }
+   ],
+    "LCH_1": [
+        {
+            "name": "**✦ LOONA Chuu**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565765753802832/breadd_20230529100915.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LCH_1`"
+        }
+   ],
+    "LHJ_1": [
+        {
+            "name": "**✦ LOONA Heejin**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565920787869706/breadd_20230529101135.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LHJ_1`"
+        }
+   ],
+    "LHY_1": [
+        {
+            "name": "**✦ LOONA Hyunjin**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565921245044776/breadd_20230529100826.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LHY_1`"
+        }
+   ],
+    "LGW_1": [
+        {
+            "name": "**✦ LOONA Gowon**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565921719013376/breadd_20230529100855.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LGW_1`"
+        }
+   ],
+    "LCE_1": [
+        {
+            "name": "**✦ LOONA Choerry**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565922121658439/breadd_20230529101159.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LCE_1`"
+        }
+   ],
+    "LOH_1": [
+        {
+            "name": "**✦ LOONA  Olivia Hye**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565922608205894/breadd_20230529101006.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LOH_1`"
+        }
+   ],
+    "LYN_1": [
+        {
+            "name": "**✦ LOONA Yeojin**",
+            "image": "https://media.discordapp.net/attachments/1112530840317075496/1112565923195400192/breadd_20230529100655.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "LOONA",
+            "grade": "1star",
+            "code": "`LYN_1`"
+        }
    ]
 }
