@@ -2938,5 +2938,55 @@
             "grade": "1star",
             "code": "`AWB_1`"
         }
+    ],
+    "CBX_2": [
+        {
+            "name": "**✦✦ CIX BX**",
+            "image": "https://media.discordapp.net/attachments/1106726611501453454/1113029666773663775/Cookie_Template_20230530170038.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CBX_2`"
+        }
+    ],
+    "CSH_2": [
+        {
+            "name": "**✦✦ CIX Seunghun**",
+            "image": "https://media.discordapp.net/attachments/1106726611501453454/1113029667167948880/Cookie_Template_20230530165910.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CSH_2`"
+        }
+    ],
+    "CYH_2": [
+        {
+            "name": "**✦✦ CIX Yonghee**",
+            "image": "https://media.discordapp.net/attachments/1106726611501453454/1113029668698865674/Cookie_Template_20230530165815.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CYH_2`"
+        }
+    ],
+    "CBJ_2": [
+        {
+            "name": "**✦✦ CIX Bae Jinyoung**",
+            "image": "https://media.discordapp.net/attachments/1106726611501453454/1113029668392665138/Cookie_Template_20230530165840.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CBJ_2`"
+        }
+    ],
+    "CHS_2": [
+        {
+            "name": "**✦✦ CIX Hyunsuk**",
+            "image": "https://media.discordapp.net/attachments/1106726611501453454/1113029669038608426/Cookie_Template_20230530165738.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "CIX",
+            "grade": "1star",
+            "code": "`CHS_2`"
+        }
    ]
 }
