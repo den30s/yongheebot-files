@@ -2828,5 +2828,115 @@
             "grade": "1star",
             "code": "`LYN_1`"
         }
+   ],
+    "FSN_1": [
+        {
+            "name": "**✦ FIFTY FIFTY Saena**",
+            "image": "https://media.discordapp.net/attachments/1112530689628315669/1112657673092087888/bread_card_Saena.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "FIFTY FIFTY",
+            "grade": "1star",
+            "code": "`FSN_1`"
+        }
+   ],
+    "FKN_1": [
+        {
+            "name": "**✦ FIFTY FIFTY Keena**",
+            "image": "https://media.discordapp.net/attachments/1112530689628315669/1112884023132434533/bread_card_Keena.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "FIFTY FIFTY",
+            "grade": "1star",
+            "code": "`FKN_1`"
+        }
+   ],
+    "FSO_1": [
+        {
+            "name": "**✦ FIFTY FIFTY Sio**",
+            "image": "https://media.discordapp.net/attachments/1112530689628315669/1112657674367139881/bread_card_Sio.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "FIFTY FIFTY",
+            "grade": "1star",
+            "code": "`FSO_1`"
+        }
+   ],
+    "FAR_1": [
+        {
+            "name": "**✦ FIFTY FIFTY Aran**",
+            "image": "https://media.discordapp.net/attachments/1112530689628315669/1112884022721396839/bread_card_Aran.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "FIFTY FIFTY",
+            "grade": "1star",
+            "code": "`FAR_1`"
+        }
+   ],
+    "AOJ_1": [
+        {
+            "name": "**✦ ATBO Oh Junseok**",
+            "image": "https://media.discordapp.net/attachments/1112530342587400192/1112883856836657212/bread_card_Junseok.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATBO",
+            "grade": "1star",
+            "code": "`AOJ_1`"
+        }
+   ],
+    "ARJ_1": [
+        {
+            "name": "**✦ ATBO Ryu Junmin**",
+            "image": "https://media.discordapp.net/attachments/1112530342587400192/1112883857331605535/bread_card_Junmin.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATBO",
+            "grade": "1star",
+            "code": "`ARJ_1`"
+        }
+   ],
+    "ABH_1": [
+        {
+            "name": "**✦ ATBO Bae Hyunjun**",
+            "image": "https://media.discordapp.net/attachments/1112530342587400192/1112883857801359420/bread_card_Hyunjun.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATBO",
+            "grade": "1star",
+            "code": "`ABH_1`"
+        }
+   ],
+    "ASR_1": [
+        {
+            "name": "**✦ ATBO Seok Rakwon**",
+            "image": "https://media.discordapp.net/attachments/1112530342587400192/1112883858304663652/bread_card_Rakwon.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATBO",
+            "grade": "1star",
+            "code": "`ASR_1`"
+        }
+   ],
+    "AJS_1": [
+        {
+            "name": "**✦ ATBO Jeong Seunghwan**",
+            "image": "https://media.discordapp.net/attachments/1112530342587400192/1112883858749280256/bread_card_Seunghwan.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATBO",
+            "grade": "1star",
+            "code": "`AJS_1`"
+        }
+   ],
+    "AKY_1": [
+        {
+            "name": "**✦ ATBO Kim Yeonkyu**",
+            "image": "https://media.discordapp.net/attachments/1112530342587400192/1112883859042873354/bread_card_Yeonkyu.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATBO",
+            "grade": "1star",
+            "code": "`AKY_1`"
+        }
+   ],
+    "AWB_1": [
+        {
+            "name": "**✦ ATBO Won Bin**",
+            "image": "https://media.discordapp.net/attachments/1112530342587400192/1112883859479089203/bread_card_Wonbin.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "ATBO",
+            "grade": "1star",
+            "code": "`AWB_1`"
+        }
    ]
 }
