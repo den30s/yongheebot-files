@@ -118,5 +118,115 @@
             "grade": "1star",
             "code": "SSFYN_5"
         }
+    ],
+    "LIGE_5": [
+        {
+            "name": "**✦✦✦✦✦ IVE Gaeul**",
+            "image": "https://media.discordapp.net/attachments/1107664367778005112/1113360769497694310/LI_5_Restored_20230531144208.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`LIGE_5`"
+        }
+    ],
+    "LIYJ_5": [
+        {
+            "name": "**✦✦✦✦✦ IVE Yujin**",
+            "image": "https://media.discordapp.net/attachments/1107664367778005112/1113360769921331220/LI_5_Restored_20230531144012.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`LIYJ_5`"
+        }
+    ],
+    "LIRE_5": [
+        {
+            "name": "**✦✦✦✦✦ IVE Rei**",
+            "image": "https://media.discordapp.net/attachments/1107664367778005112/1113360770261065749/LI_5_Restored_20230531144557.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`LIRE_5`"
+        }
+    ],
+    "LIJW_5": [
+        {
+            "name": "**✦✦✦✦✦ IVE Jang Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1107664367778005112/1113360771229954120/LI_5_Restored_20230531145032.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`LIJW_5`"
+        }
+    ],
+    "LILZ_5": [
+        {
+            "name": "**✦✦✦✦✦ IVE Liz**",
+            "image": "https://media.discordapp.net/attachments/1107664367778005112/1113360771771015250/LI_5_Restored_20230531145332.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`LILZ_5`"
+        }
+    ],
+    "LILS_5": [
+        {
+            "name": "**✦✦✦✦✦ IVE Leeseo**",
+            "image": "https://media.discordapp.net/attachments/1107664367778005112/1113360772047831040/LI_5_Restored_20230531145552.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "IVE",
+            "grade": "1star",
+            "code": "`LILS_5`"
+        }
+    ],
+    "LTYJ_5": [
+        {
+            "name": "**✦✦✦✦✦ Tomorrow X Together Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1106726667315064952/1113255571752243270/bread_card_Restored2_20230531075015.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Tomorrow X Together",
+            "grade": "1star",
+            "code": "`LTYJ_5`"
+        }
+    ],
+    "LTSB_5": [
+        {
+            "name": "**✦✦✦✦✦ Tomorrow X Together Soobin**",
+            "image": "https://media.discordapp.net/attachments/1106726667315064952/1113255572393963640/LT_5_20230531075312.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Tomorrow X Together",
+            "grade": "1star",
+            "code": "`LTSB_5`"
+        }
+    ],
+    "LTBG_5": [
+        {
+            "name": "**✦✦✦✦✦ Tomorrow X Together Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1106726667315064952/1113255573157331075/LT_5_20230531075422.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Tomorrow X Together",
+            "grade": "1star",
+            "code": "`LTBG_5`"
+        }
+    ],
+    "LTTH_5": [
+        {
+            "name": "**✦✦✦✦✦ Tomorrow X Together Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1106726667315064952/1113255573895524453/LT_5_20230531075519.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Tomorrow X Together",
+            "grade": "1star",
+            "code": "`LTTH_5`"
+        }
+    ],
+    "LTHK_5": [
+        {
+            "name": "**✦✦✦✦✦ Tomorrow X Together Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1106726667315064952/1113255574365294682/LT_5_20230531075612.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Tomorrow X Together",
+            "grade": "1star",
+            "code": "`LTHK_5`"
+        }
    ]
 }
