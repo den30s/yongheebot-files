@@ -3168,5 +3168,85 @@
             "grade": "1star",
             "code": "`LTHK_5`"
         }
+   ],
+    "HSI_1": [
+        {
+            "name": "**✦ H1-KEY Seoi**",
+            "image": "https://media.discordapp.net/attachments/1112530806204792943/1113462075717595197/seoi.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "H1-KEY",
+            "grade": "1star",
+            "code": "`HSI_1`"
+        }
+   ],
+    "HRN_1": [
+        {
+            "name": "**✦ H1-KEY Riina**",
+            "image": "https://media.discordapp.net/attachments/1112530806204792943/1113462075440758905/riina.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "H1-KEY",
+            "grade": "1star",
+            "code": "`HRN_1`"
+        }
+   ],
+    "HHS_1": [
+        {
+            "name": "**✦ H1-KEY Hwiseo**",
+            "image": "https://media.discordapp.net/attachments/1112530806204792943/1113462075176538112/hwiseo.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "H1-KEY",
+            "grade": "1star",
+            "code": "`HHS_1`"
+        }
+   ],
+    "HYE_1": [
+        {
+            "name": "**✦ H1-KEY Yel**",
+            "image": "https://media.discordapp.net/attachments/1112530806204792943/1113462074849374308/yel.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "H1-KEY",
+            "grade": "1star",
+            "code": "`HYE_1`"
+        }
+   ],
+    "SFLC_1": [
+        {
+            "name": "**✦ Soloist Lee Chaeyeon**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1113484871646597120/seoi_20230531170844.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFLC_1`"
+        }
+   ],
+    "SFJS_1": [
+        {
+            "name": "**✦ Soloist Jessi**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1113520499436298370/jessi_20230531193242.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFJS_1`"
+        }
+   ],
+    "SMHS_1": [
+        {
+            "name": "**✦ Soloist Ha Sungwoon**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1112884085388492841/bread_card25.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMHS_1`"
+        }
+   ],
+    "SMHH_1": [
+        {
+            "name": "**✦ Soloist Hyunjun Hur**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1113062975885037629/bread_card_Restored_20230530191050.png?width=480&height=662",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMHH_1`"
+        }
    ]
 }
