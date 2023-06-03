@@ -3248,5 +3248,165 @@
             "grade": "1star",
             "code": "`SMHH_1`"
         }
+   ],
+    "TAKY_1": [
+        {
+            "name": "**✦ TripleS AAA Kim Yooyeon**",
+            "image": "https://media.discordapp.net/attachments/1114180327355719761/1114369467930120192/breadd_20230603094222.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "TripleS AAA",
+            "grade": "1star",
+            "code": "`TAKY_1`"
+        }
+   ],
+    "TAKN_1": [
+        {
+            "name": "**✦ TripleS AAA Kim Nakyoung**",
+            "image": "https://media.discordapp.net/attachments/1114180327355719761/1114369468320198746/breadd_20230603094243.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "TripleS AAA",
+            "grade": "1star",
+            "code": "`TAKN_1`"
+        }
+   ],
+    "TAGY_1": [
+        {
+            "name": "**✦ TripleS AAA Gong Yubin**",
+            "image": "https://media.discordapp.net/attachments/1114180327355719761/1114369468697673821/breadd_20230603094331.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "TripleS AAA",
+            "grade": "1star",
+            "code": "`TAGY_1`"
+        }
+   ],
+    "TAJH_1": [
+        {
+            "name": "**✦ TripleS AAA Jeong Hyerin**",
+            "image": "https://media.discordapp.net/attachments/1114180327355719761/1114369469154865162/breadd_20230603094408.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "TripleS AAA",
+            "grade": "1star",
+            "code": "`TAJH_1`"
+        }
+   ],
+    "DJU_1": [
+        {
+            "name": "**✦ DREAMCATCHER JiU**",
+            "image": "https://media.discordapp.net/attachments/1114180398277206076/1114382098220974190/breadd_20230603101513.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DREAMCATCHER",
+            "grade": "1star",
+            "code": "`DJU_1`"
+        }
+   ],
+    "DSA_1": [
+        {
+            "name": "**✦ DREAMCATCHER SuA**",
+            "image": "https://media.discordapp.net/attachments/1114180398277206076/1114382098615255144/breadd_20230603102725.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DREAMCATCHER",
+            "grade": "1star",
+            "code": "`DSA_1`"
+        }
+   ],
+    "DSY_1": [
+        {
+            "name": "**✦ DREAMCATCHER Siyeon**",
+            "image": "https://media.discordapp.net/attachments/1114180398277206076/1114382099013718129/breadd_20230603102808.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DREAMCATCHER",
+            "grade": "1star",
+            "code": "`DSY_1`"
+        }
+   ],
+    "DHD_1": [
+        {
+            "name": "**✦ DREAMCATCHER Handong**",
+            "image": "https://media.discordapp.net/attachments/1114180398277206076/1114382099315703839/breadd_20230603103117.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DREAMCATCHER",
+            "grade": "1star",
+            "code": "`D_1`"
+        }
+   ],
+    "DYH_1": [
+        {
+            "name": "**✦ DREAMCATCHER Yoohyeon**",
+            "image": "https://media.discordapp.net/attachments/1114180398277206076/1114382099659620362/breadd_20230603103223.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DREAMCATCHER",
+            "grade": "1star",
+            "code": "`DYH_1`"
+        }
+   ],
+    "DDM_1": [
+        {
+            "name": "**✦ DREAMCATCHER Dami**",
+            "image": "https://media.discordapp.net/attachments/1114180398277206076/1114382099970019408/breadd_20230603103426.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DREAMCATCHER",
+            "grade": "1star",
+            "code": "`DDM_1`"
+        }
+   ],
+    "DGH_1": [
+        {
+            "name": "**✦ DREAMCATCHER Gahyeon**",
+            "image": "https://media.discordapp.net/attachments/1114180398277206076/1114382100276199456/breadd_20230603103330.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DREAMCATCHER",
+            "grade": "1star",
+            "code": "`DGH_1`"
+        }
+   ],
+    "WNN_1": [
+        {
+            "name": "**✦ WOO!AH! Nana**",
+            "image": "https://media.discordapp.net/attachments/1114180438303457331/1114399761441755207/breadd_20230603114443.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WOO!AH!",
+            "grade": "1star",
+            "code": "`WNN_1`"
+        }
+   ],
+    "WWY_1": [
+        {
+            "name": "**✦ WOO!AH! Wooyeon**",
+            "image": "https://media.discordapp.net/attachments/1114180438303457331/1114399762251272215/breadd_20230603114419.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WOO!AH!",
+            "grade": "1star",
+            "code": "`WWY_1`"
+        }
+   ],
+    "WSR_1": [
+        {
+            "name": "**✦ WOO!AH! Sora**",
+            "image": "https://media.discordapp.net/attachments/1114180438303457331/1114399762670694470/breadd_20230603114353.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WOO!AH!",
+            "grade": "1star",
+            "code": "`WSR_1`"
+        }
+   ],
+    "WLC_1": [
+        {
+            "name": "**✦ WOO!AH! Lucy**",
+            "image": "https://media.discordapp.net/attachments/1114180438303457331/1114399763144642600/breadd_20230603114324.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WOO!AH!",
+            "grade": "1star",
+            "code": "`WLC_1`"
+        }
+   ],
+    "WMS_1": [
+        {
+            "name": "**✦ WOO!AH! Minseo**",
+            "image": "https://media.discordapp.net/attachments/1114180438303457331/1114399763484397608/breadd_20230603114219.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WOO!AH!",
+            "grade": "1star",
+            "code": "`WMS_1`"
+        }
    ]
 }
