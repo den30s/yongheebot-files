@@ -3408,5 +3408,255 @@
             "grade": "1star",
             "code": "`WMS_1`"
         }
+   ],
+    "CSR_1": [
+        {
+            "name": "**✦ CRAVITY Serim**",
+            "image": "https://media.discordapp.net/attachments/1114180082815205447/1114561765599084544/breadd_20230603222833.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "CRAVITY",
+            "grade": "1star",
+            "code": "`CSR_1`"
+        }
+   ],
+    "CAL_1": [
+        {
+            "name": "**✦ CRAVITY Allen**",
+            "image": "https://media.discordapp.net/attachments/1114180082815205447/1114561765984968736/breadd_20230603222810.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "CRAVITY",
+            "grade": "1star",
+            "code": "`CAL_1`"
+        }
+   ],
+    "CJM_1": [
+        {
+            "name": "**✦ CRAVITY Jungmo**",
+            "image": "https://media.discordapp.net/attachments/1114180082815205447/1114561766530220102/breadd_20230603222744.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "CRAVITY",
+            "grade": "1star",
+            "code": "`CJM_1`"
+        }
+   ],
+    "CWB_1": [
+        {
+            "name": "**✦ CRAVITY Woobin**",
+            "image": "https://media.discordapp.net/attachments/1114180082815205447/1114561767025164309/breadd_20230603222717.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "CRAVITY",
+            "grade": "1star",
+            "code": "`CWB_1`"
+        }
+   ],
+    "CWJ_1": [
+        {
+            "name": "**✦ CRAVITY Wonjin**",
+            "image": "https://media.discordapp.net/attachments/1114180082815205447/1114561767465550045/breadd_20230603222550.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "CRAVITY",
+            "grade": "1star",
+            "code": "`CWJ_1`"
+        }
+   ],
+    "CMH_1": [
+        {
+            "name": "**✦ CRAVITY Minhee**",
+            "image": "https://media.discordapp.net/attachments/1114180082815205447/1114561767855628469/breadd_20230603222444.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "CRAVITY",
+            "grade": "1star",
+            "code": "`CMH_1`"
+        }
+   ],
+    "CHJ_1": [
+        {
+            "name": "**✦ CRAVITY Hyeongjun**",
+            "image": "https://media.discordapp.net/attachments/1114180082815205447/1114561768505737319/breadd_20230603222422.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "CRAVITY",
+            "grade": "1star",
+            "code": "`CHJ_1`"
+        }
+   ],
+    "CTY_1": [
+        {
+            "name": "**✦ CRAVITY Taeyoung**",
+            "image": "https://media.discordapp.net/attachments/1114180082815205447/1114561768958730310/breadd_20230603222347.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "CRAVITY",
+            "grade": "1star",
+            "code": "`CTY_1`"
+        }
+   ],
+    "CSM_1": [
+        {
+            "name": "**✦ CRAVITY Seongmin**",
+            "image": "https://media.discordapp.net/attachments/1114180082815205447/1114561769353003008/breadd_20230603222257.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "CRAVITY",
+            "grade": "1star",
+            "code": "`CSM_1`"
+        }
+   ],
+    "ZJW_1": [
+        {
+            "name": "**✦ ZEROBASEONE Jiwoong**",
+            "image": "https://media.discordapp.net/attachments/1114180000657178654/1114593378458415236/breadd_20230604003233.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "ZB1",
+            "grade": "1star",
+            "code": "`ZJW_1`"
+        }
+   ],
+    "ZZH_1": [
+        {
+            "name": "**✦ ZEROBASEONE Zhang Hao**",
+            "image": "https://media.discordapp.net/attachments/1114180000657178654/1114593378965929985/breadd_20230604003202.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "ZB1",
+            "grade": "1star",
+            "code": "`ZZH_1`"
+        }
+   ],
+    "ZHB_1": [
+        {
+            "name": "**✦ ZEROBASEONE Hanbin**",
+            "image": "https://media.discordapp.net/attachments/1114180000657178654/1114593379251134464/breadd_20230604003136.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "ZB1",
+            "grade": "1star",
+            "code": "`ZHB_1`"
+        }
+   ],
+    "ZMT_1": [
+        {
+            "name": "**✦ ZEROBASEONE Matthew**",
+            "image": "https://media.discordapp.net/attachments/1114180000657178654/1114593379574100008/breadd_20230604003107.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "ZB1",
+            "grade": "1star",
+            "code": "`ZMT_1`"
+        }
+   ],
+    "ZTR_1": [
+        {
+            "name": "**✦ ZEROBASEONE Taerae**",
+            "image": "https://media.discordapp.net/attachments/1114180000657178654/1114593379905445968/breadd_20230604003038.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "ZB1",
+            "grade": "1star",
+            "code": "`ZTR_1`"
+        }
+   ],
+    "ZRK_1": [
+        {
+            "name": "**✦ ZEROBASEONE Ricky**",
+            "image": "https://media.discordapp.net/attachments/1114180000657178654/1114593380270354443/breadd_20230604003009.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "ZB1",
+            "grade": "1star",
+            "code": "`ZRK_1`"
+        }
+   ],
+    "ZGV_1": [
+        {
+            "name": "**✦ ZEROBASEONE Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1114180000657178654/1114593380635254845/breadd_20230604002943.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "ZB1",
+            "grade": "1star",
+            "code": "`ZGV_1`"
+        }
+   ],
+    "ZGW_1": [
+        {
+            "name": "**✦ ZEROBASEONE Gunwook**",
+            "image": "https://media.discordapp.net/attachments/1114180000657178654/1114593381084049498/breadd_20230604002903.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "ZB1",
+            "grade": "1star",
+            "code": "`ZGW_1`"
+        }
+   ],
+    "ZYJ_1": [
+        {
+            "name": "**✦ ZEROBASEONE Yujin**",
+            "image": "https://media.discordapp.net/attachments/1114180000657178654/1114593381616730152/breadd_20230604002824.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "ZB1",
+            "grade": "1star",
+            "code": "`ZYJ_1`"
+        }
+   ],
+    "DHP_1": [
+        {
+            "name": "**✦ DRIPPIN Hyeop**",
+            "image": "https://media.discordapp.net/attachments/1114180115807608973/1114735854800347247/breadd_20230604095651.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DRIPPIN",
+            "grade": "1star",
+            "code": "`DHP_1`"
+        }
+   ],
+    "DYS_1": [
+        {
+            "name": "**✦ DRIPPIN Yunseong**",
+            "image": "https://media.discordapp.net/attachments/1114180115807608973/1114735855144288316/breadd_20230604095722.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DRIPPIN",
+            "grade": "1star",
+            "code": "`DYS_1`"
+        }
+   ],
+    "DCU_1": [
+        {
+            "name": "**✦ DRIPPIN Changuk**",
+            "image": "https://media.discordapp.net/attachments/1114180115807608973/1114735855450456134/breadd_20230604095808.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DRIPPIN",
+            "grade": "1star",
+            "code": "`DCU_1`"
+        }
+   ],
+    "DDY_1": [
+        {
+            "name": "**✦ DRIPPIN Dongyun**",
+            "image": "https://media.discordapp.net/attachments/1114180115807608973/1114735855756648519/breadd_20230604095829.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DRIPPIN",
+            "grade": "1star",
+            "code": "`DDY_1`"
+        }
+   ],
+    "DMS_1": [
+        {
+            "name": "**✦ DRIPPIN Minseo**",
+            "image": "https://media.discordapp.net/attachments/1114180115807608973/1114735856079618218/breadd_20230604095924.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DRIPPIN",
+            "grade": "1star",
+            "code": "`DMS_1`"
+        }
+   ],
+    "DJH_1": [
+        {
+            "name": "**✦ DRIPPIN Junho**",
+            "image": "https://media.discordapp.net/attachments/1114180115807608973/1114735856389980230/breadd_20230604095948.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DRIPPIN",
+            "grade": "1star",
+            "code": "`DJH_1`"
+        }
+   ],
+    "DAL_1": [
+        {
+            "name": "**✦ DRIPPIN Alex**",
+            "image": "https://media.discordapp.net/attachments/1114180115807608973/1114735856725532702/breadd_20230604100034.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "DRIPPIN",
+            "grade": "1star",
+            "code": "`DAL_1`"
+        }
    ]
 }
