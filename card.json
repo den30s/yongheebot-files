@@ -3808,5 +3808,45 @@
             "grade": "1star",
             "code": "`NOHC_1`"
         }
+ ],
+    "SFHL_1": [
+        {
+            "name": "**✦ Soloist Hyolyn**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1115921002002644993/breadd_20230607162818.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFHL_1`"
+        }
+ ],
+    "SFSM_1": [
+        {
+            "name": "**✦ Soloist Sunmi**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1115921019337715712/breadd_20230607162705.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFSM_1`"
+        }
+ ],
+    "SMBI_1": [
+        {
+            "name": "**✦ Soloist B.I**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1115904515573559407/breadd_20230607151535.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMBI_1`"
+        }
+ ],
+    "SMHM_1": [
+        {
+            "name": "**✦ Soloist Hwang Minhyun**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1115920982897590312/breadd_20230607162941.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMHM_1`"
+        }
    ]
 }
