@@ -3658,5 +3658,155 @@
             "grade": "1star",
             "code": "`DAL_1`"
         }
+   ],
+    "NLL_1": [
+        {
+            "name": "**✦ NMIXX Lily**",
+            "image": "https://media.discordapp.net/attachments/1114180281327423589/1115209457954213888/lily.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NLL_1`"
+        }
+   ],
+    "NHW_1": [
+        {
+            "name": "**✦ NMIXX Haewon**",
+            "image": "https://media.discordapp.net/attachments/1114180281327423589/1115209462161088592/haewon.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NHW_1`"
+        }
+   ],
+    "NSY_1": [
+        {
+            "name": "**✦ NMIXX Sullyoon**",
+            "image": "https://media.discordapp.net/attachments/1114180281327423589/1115209461162836028/sullyoon.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NSY_1`"
+        }
+   ],
+    "NBA_1": [
+        {
+            "name": "**✦ NMIXX Bae**",
+            "image": "https://media.discordapp.net/attachments/1114180281327423589/1115209461871673404/bae.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NBA_1`"
+        }
+ ],
+    "NJW_1": [
+        {
+            "name": "**✦ NMIXX Jiwoo**",
+            "image": "https://media.discordapp.net/attachments/1114180281327423589/1115209462479867924/jiwoo.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NJW_1`"
+        }
+ ],
+    "NKJ_1": [
+        {
+            "name": "**✦ NMIXX Kyujin**",
+            "image": "https://media.discordapp.net/attachments/1114180281327423589/1115209461469040721/kyujin.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NMIXX",
+            "grade": "1star",
+            "code": "`NKJ_1`"
+        }
+ ],
+    "NOTI_1": [
+        {
+            "name": "**✦ NCT 127 Taeil**",
+            "image": "https://media.discordapp.net/attachments/1114180136963678238/1115707050018750544/taeil.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NCT127",
+            "grade": "1star",
+            "code": "`NOTI_1`"
+        }
+ ],
+    "NOJN_1": [
+        {
+            "name": "**✦ NCT 127 Johnny**",
+            "image": "https://media.discordapp.net/attachments/1114180136963678238/1115707052174610482/johnny.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NCT127",
+            "grade": "1star",
+            "code": "`NOJN_1`"
+        }
+ ],
+    "NOTY_1": [
+        {
+            "name": "**✦ NCT 127 Taeyong**",
+            "image": "https://media.discordapp.net/attachments/1114180136963678238/1115707048504606801/taeyong.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NCT127",
+            "grade": "1star",
+            "code": "`NOTY_1`"
+        }
+ ],
+    "NOYT_1": [
+        {
+            "name": "**✦ NCT 127 Yuta**",
+            "image": "https://media.discordapp.net/attachments/1114180136963678238/1115707048865304666/yuta.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NCT127",
+            "grade": "1star",
+            "code": "`NOYT_1`"
+        }
+ ],
+    "NODY_1": [
+        {
+            "name": "**✦ NCT 127 Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1114180136963678238/1115707049175695381/doyoung.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NCT127",
+            "grade": "1star",
+            "code": "`NODY_1`"
+        }
+ ],
+    "NOJH_1": [
+        {
+            "name": "**✦ NCT 127 Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1114180136963678238/1115707049653833798/jaehyun.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NCT127",
+            "grade": "1star",
+            "code": "`NOJH_1`"
+        }
+ ],
+    "NOJW_1": [
+        {
+            "name": "**✦ NCT 127 Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1114180136963678238/1115707050698211439/jungwoo.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NCT127",
+            "grade": "1star",
+            "code": "`NOJW_1`"
+        }
+ ],
+    "NOMA_1": [
+        {
+            "name": "**✦ NCT 127 Mark**",
+            "image": "https://media.discordapp.net/attachments/1114180136963678238/1115707051033759774/mark.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NCT127",
+            "grade": "1star",
+            "code": "`NOMA_1`"
+        }
+ ],
+    "NOHC_1": [
+        {
+            "name": "**✦ NCT 127 Haechan**",
+            "image": "https://media.discordapp.net/attachments/1114180136963678238/1115707051499339796/haechan_20230606201019.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "NCT127",
+            "grade": "1star",
+            "code": "`NOHC_1`"
+        }
    ]
 }
