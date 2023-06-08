@@ -3389,16 +3389,6 @@
             "code": "`WSR_1`"
         }
    ],
-    "WLC_1": [
-        {
-            "name": "**✦ WOO!AH! Lucy**",
-            "image": "https://media.discordapp.net/attachments/1114180438303457331/1114399763144642600/breadd_20230603114324.png?width=485&height=668",
-            "theme": "card1",
-            "inv": "WOO!AH!",
-            "grade": "1star",
-            "code": "`WLC_1`"
-        }
-   ],
     "WMS_1": [
         {
             "name": "**✦ WOO!AH! Minseo**",
@@ -3847,6 +3837,16 @@
             "inv": "Soloist",
             "grade": "1star",
             "code": "`SMHM_1`"
+        }
+   ],
+    "WLC_1": [
+        {
+            "name": "**✦ WOO!AH! Lucy**",
+            "image": "https://media.discordapp.net/attachments/1114180438303457331/1114399763144642600/breadd_20230603114324.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WOO!AH!",
+            "grade": "1star",
+            "code": "`WLC_1`"
         }
    ]
 }
