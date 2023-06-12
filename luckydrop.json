@@ -228,5 +228,125 @@
             "grade": "1star",
             "code": "`LTHK_5`"
         }
+    ],
+    "SESH_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> Enhypen Sunghoon**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117310426980569088/bread_card_penguin_Sunghoon.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "SESH_5"
+        }
+    ],
+    "SMSN_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> Monsta X**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117320215009701908/bread_card_bear_Shownu.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "SMSN_5"
+        }
+    ],
+    "SSFL_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> Stray Kids Felix**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117323069200027730/bread_card_chick_Felix.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "SSFL_5"
+        }
+    ],
+    "SNJN_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> NCT Jeno**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117325511782318130/bread_card_dog_Jeno.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "SNJN_5"
+        }
+    ],
+    "SSSE_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> STAYC Seeun**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117463074035736708/bread_card_fox_Seeun.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "SSSE_5"
+        }
+    ],
+    "SBJK_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> BTS Jungkook**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117463467964760114/bread_card_bunny_Jungkook.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "SBJK_5"
+        }
+    ],
+    "STKY_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> TripleS Kim Yooyeon**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117463551574032498/bread_card_bunny_Yooyeon.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "STKY_5"
+        }
+    ],
+    "SLHY_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> LOONA Hyunjin**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117784858173902878/bread_card_cat_Hyunjin.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "SLHY_5"
+        }
+    ],
+    "SAJS_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> ATBO Jeong Seunghwan**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117785014831173662/bread_card_cat_Seunghwan.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "SAJS_5"
+        }
+    ],
+    "SGSH_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> (G)I-dle Shuhua**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117786628388311091/bread_card_chick_Shuhua.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "SGSH_5"
+        }
+    ],
+    "SWJH_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> WEEEKLY Jihan**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117786628388311091/bread_card_chick_Shuhua.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "SWJH_5"
+        }
+    ],
+    "SKHB_5": [
+        {
+            "name": "** <:aspecial:1108692977519444048> <:asab:1117351704392912957> Kep1er Huening Bahiyyih**",
+            "image": "https://media.discordapp.net/attachments/1114432281969426492/1117822203757596712/bread_card_bear_Huening_Bahiyyih.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Special",
+            "grade": "1star",
+            "code": "SKHB_5"
+        }
    ]
 }
