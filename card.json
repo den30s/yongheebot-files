@@ -4568,5 +4568,75 @@
             "grade": "1star",
             "code": "`NWYY_1`"
         }
+   ],
+    "XJR_1": [
+        {
+            "name": "**✦ XG Jurin**",
+            "image": "https://media.discordapp.net/attachments/1116594846396858419/1117846453713371146/jurin.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "XG",
+            "grade": "1star",
+            "code": "`XJR_1`"
+        }
+   ],
+    "XCS_1": [
+        {
+            "name": "**✦ XG Chisa**",
+            "image": "https://media.discordapp.net/attachments/1116594846396858419/1117846454699032757/chisa.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "XG",
+            "grade": "1star",
+            "code": "`XCS_1`"
+        }
+   ],
+    "XHN_1": [
+        {
+            "name": "**✦ XG Hinata**",
+            "image": "https://media.discordapp.net/attachments/1116594846396858419/1117846454015381534/hinata.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "XG",
+            "grade": "1star",
+            "code": "`XHN_1`"
+        }
+   ],
+    "XHV_1": [
+        {
+            "name": "**✦ XG Harvey**",
+            "image": "https://media.discordapp.net/attachments/1116594846396858419/1117846455084929074/harvey.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "XG",
+            "grade": "1star",
+            "code": "`XHV_1`"
+        }
+   ],
+    "XJA_1": [
+        {
+            "name": "**✦ XG Juria**",
+            "image": "https://media.discordapp.net/attachments/1116594846396858419/1117846453256196206/juria.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "XG",
+            "grade": "1star",
+            "code": "`XJA_1`"
+        }
+   ],
+    "XMY_1": [
+        {
+            "name": "**✦ XG Maya**",
+            "image": "https://media.discordapp.net/attachments/1116594846396858419/1117846455407874128/maya.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "XG",
+            "grade": "1star",
+            "code": "`XMY_1`"
+        }
+   ],
+    "XCC_1": [
+        {
+            "name": "**✦ XG Cocona**",
+            "image": "https://media.discordapp.net/attachments/1116594846396858419/1117846454384463933/cocona.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "XG",
+            "grade": "1star",
+            "code": "`XCC_1`"
+        }
    ]
 }
