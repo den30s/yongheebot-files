@@ -41,12 +41,212 @@
    ],
     "SM23SHS_5": [
         {
-            "name": "**\<:asm23:1117351700500598785> Seventeen Hoshi**",
+            "name": "**<:asm23:1117351700500598785> Seventeen Hoshi**",
             "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253069719019550/svt_sm_20230605200628.png?width=485&height=668",
             "theme": "card1",
             "inv": "SM23",
             "grade": "1star",
             "code": "`SM23SHS_5`"
+        }
+ ],
+    "SM23SWW_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen Wonwoo**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253070255902790/svt_sm_20230605200045.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SWW_5`"
+        }
+   ],
+    "SM23SWZ_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen Woozi**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253151520530444/svt_sm_20230605200012.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SWZ_5`"
+        }
+   ],
+    "SM23SDK_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen DK**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253152090959923/svt_sm_20230605200427.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SDK_5`"
+        }
+   ],
+    "SM23SMG_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen Mingyu**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253152493621347/svt_sm_20230605200505.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SMG_5`"
+        }
+   ],
+    "SM23STE_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen The8**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253152908845208/svt_sm_20230605200559.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23STE_5`"
+        }
+   ],
+    "SM23SSK_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen Seungkwan**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253153294725221/svt_sm_20230605200300.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SSK_5`"
+        }
+   ],
+    "SM23SVN_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen Vernon**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253153684803654/svt_sm_20230605200227.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SVN_5`"
+        }
+   ],
+    "SM23SDN_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen Dino**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253154108416070/svt_sm_20230605200143.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SDN_5`"
+        }
+     ],
+    "SM23WSA_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> WJSN SeolA**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115702719643144374/wjsn_sum_20230607015928.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23WSA_5`"
+        }
+     ],
+    "SM23WBN_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> WJSN Bona**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115702720263897088/wjsn_sum_20230607015847.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23WBN_5`"
+        }
+     ],
+    "SM23WEX_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> WJSN Exy**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115702721408946216/wjsn_sum_20230607015817.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23WEX_5`"
+        }
+     ],
+    "SM23WSB_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> WJSN Soobin**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115702722100998194/wjsn_sum_20230607015752.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23WSB_5`"
+        }
+     ],
+    "SM23WLD_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> WJSN Luda**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115702722818232320/wjsn_sum_20230607015717.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23WLD_5`"
+        }
+     ],
+    "SM23WDW_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> WJSN Dawon**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115702791936163841/wjsn_sum_20230607015638.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23WDW_5`"
+        }
+     ],
+    "SM23WES_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> WJSN Eunseo**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115702792359784589/wjsn_sum_20230607015606.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23WES_5`"
+        }
+     ],
+    "SM23WYR_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> WJSN Yeoreum**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115702792892452964/wjsn_sum_20230607015529.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23WYR_5`"
+        }
+     ],
+    "SM23WDY_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> WJSN Dayoung**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115702793865543924/wjsn_sum_20230607015502.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23WDY_5`"
+        }
+     ],
+    "SM23WYJ_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> WJSN Yeonjung**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115702794591154318/wjsn_sum_20230607015417.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23WYJ_5`"
+        }
+     ],
+    "SM23HM_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Soloist Hwang Minhyun**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1116224636376588368/SUMMER_MINHYUN_20230608120303.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SMHM_5`"
+        }
+     ],
+    "SM23SFJY_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Soloist Jo Yuri**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1116325155854106735/JO_YURI_sum_20230608173322.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SFJY_5`"
         }
    ]
 }
