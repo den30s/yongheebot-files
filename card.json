@@ -4508,5 +4508,65 @@
             "grade": "1star",
             "code": "`SFJM_1`"
         }
+   ],
+    "NWKU_1": [
+        {
+            "name": "**✦ WAYV Kun**",
+            "image": "https://media.discordapp.net/attachments/1116594478891925534/1117834037298471023/kun.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WAYV",
+            "grade": "1star",
+            "code": "`NWKU_1`"
+        }
+   ],
+    "NWTE_1": [
+        {
+            "name": "**✦ WAYV Ten**",
+            "image": "https://media.discordapp.net/attachments/1116594478891925534/1117834036958740550/ten.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WAYV",
+            "grade": "1star",
+            "code": "`NWTE_1`"
+        }
+   ],
+    "NWWW_1": [
+        {
+            "name": "**✦ WAYV Winwin**",
+            "image": "https://media.discordapp.net/attachments/1116594478891925534/1117834037671776256/winwin.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WAYV",
+            "grade": "1star",
+            "code": "`NWWW_1`"
+        }
+   ],
+    "NWXJ_1": [
+        {
+            "name": "**✦ WAYV Xiaojun**",
+            "image": "https://media.discordapp.net/attachments/1116594478891925534/1117834038053445672/xiaojun_1.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WAYV",
+            "grade": "1star",
+            "code": "`NWXJ_1`"
+        }
+   ],
+    "NWHD_1": [
+        {
+            "name": "**✦ WAYV Hendery**",
+            "image": "https://media.discordapp.net/attachments/1116594478891925534/1117834036623200256/hendery_1.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WAYV",
+            "grade": "1star",
+            "code": "`NWHD_1`"
+        }
+   ],
+    "NWYY_1": [
+        {
+            "name": "**✦ WAYV YangYang**",
+            "image": "https://media.discordapp.net/attachments/1116594478891925534/1117834038598717530/yangyang.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "WAYV",
+            "grade": "1star",
+            "code": "`NWYY_1`"
+        }
    ]
 }
