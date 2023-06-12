@@ -4428,5 +4428,85 @@
             "grade": "1star",
             "code": "`S23SFJY_5`"
         }
+   ],
+    "SFYH_1": [
+        {
+            "name": "**✦ Soloist Youha**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1117280615390248982/bread_youha_20230611103100.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFYH_1`"
+        }
+   ],
+    "SMHL_1": [
+        {
+            "name": "**✦ Soloist Holland**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1117410397553709078/breadd_20230611184446.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMHL_1`"
+        }
+   ],
+    "SFAA_1": [
+        {
+            "name": "**✦ Soloist AlexA**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1117410398057021460/breadd_20230611190735.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFAA_1`"
+        }
+   ],
+    "SMYS_1": [
+        {
+            "name": "**✦ Soloist Yoon Seobin**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1117833882004365463/bread_youha_20230612231022.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMYS_1`"
+        }
+   ],
+    "SMZC_1": [
+        {
+            "name": "**✦ Soloist Zico**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1117412411301969940/breadd_20230611191632.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SMZC_1`"
+        }
+   ],
+    "SFRS_1": [
+        {
+            "name": "**✦ Soloist Rosé**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1117569421012115576/rosas.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFRS_1`"
+        }
+   ],
+    "SMBB_1": [
+        {
+            "name": "**✦ Soloist BamBam**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1117608294295552052/bread_card_Bambam.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SM_1`"
+        }
+   ],
+    "SFJM_1": [
+        {
+            "name": "**✦ Soloist Jeon Somi**",
+            "image": "https://media.discordapp.net/attachments/1107312898927243416/1117619879260987442/bread_card_Jeon_Somi_1.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "Soloist",
+            "grade": "1star",
+            "code": "`SFJM_1`"
+        }
    ]
 }
