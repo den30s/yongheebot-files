@@ -1,1 +1,52 @@
-.
+{
+    "SM23SSC_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen S.Coups**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253067491856454/svt_sm_20230605200733.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SSC_5`"
+        }
+   ],
+    "SM23SJH_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen Jeonghan**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253068053884998/svt_sm_20230605200702.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SJH_5`"
+        }
+   ],
+    "SM23SJS_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen Joshua**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253068532031598/svt_sm_20230605190347.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SJS_5`"
+        }
+    ],
+    "SM23SJU_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Seventeen Jun**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253068926308352/svt_sm_20230605200815.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SJU_5`"
+        }
+   ],
+    "SM23SHS_5": [
+        {
+            "name": "**\<:asm23:1117351700500598785> Seventeen Hoshi**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1115253069719019550/svt_sm_20230605200628.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`SM23SHS_5`"
+        }
+   ]
+}
