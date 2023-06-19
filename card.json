@@ -4768,5 +4768,205 @@
             "grade": "1star",
             "code": "SXYC_3"
         }
+   ],
+    "S23SFCH_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Soloist Chungha**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1117307673126371328/chungha_summer_20230611122052.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23SFCH_5`"
+        }
+   ],
+    "S23SMKD_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> Soloist Kang Daniel**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1117816035475738645/kd_summer_20230612215601.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23SMKD_5`"
+        }
+   ],
+    "S23NOTI_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> NCT127 Taeil**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1116652153432444988/Untitled47_20230609164823.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23NOTI_5`"
+        }
+   ],
+    "S23NOJN_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> NCT127 Johnny**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1116652153893826591/Untitled47_20230609164513.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23NOJN_5`"
+        }
+   ],
+    "S23NOTY_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> NCT127 Taeyong**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1116652154355195964/Untitled47_20230609165214.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23NOTY_5`"
+        }
+   ],
+    "S23NOYT_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> NCT127 Yuta**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1116652154862710804/Untitled47_20230609165011.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23NOYT_5`"
+        }
+   ],
+    "S23NODY_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> NCT127 Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1116652155386994729/Untitled47_20230609164342.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23NODY_5`"
+        }
+   ],
+    "S23NOJH_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> NCT127 Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1116652155709952061/Untitled47_20230609164802.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23NOJH_5`"
+        }
+   ],
+    "S23NOJW_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> NCT127 Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1116652156376850432/Untitled47_20230609164916.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23NOJW_5`"
+        }
+   ],
+    "S23NOMA_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> NCT127 Mark**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1116652156892745728/Untitled47_20230609164614.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23NOMA_5`"
+        }
+   ],
+    "S23NOHC_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> NCT127 Heachan**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1116652157446402078/Untitled47_20230609165116.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23NOHC_5`"
+        }
+   ],
+    "S23FSR_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> FROMIS_9 Saerom**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1118414110107906099/breadcrumb2_20230614132812.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23FSR_5`"
+        }
+   ],
+    "S23FHY_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> FROMIS_9 Hayoung**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1118414110695096330/breadcrumb2_20230614133551.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23FHY_5`"
+        }
+   ],
+    "S23FJW_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> FROMIS_9 Jiwon**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1118414111240364162/breadcrumb2_20230614133358.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23FJW_5`"
+        }
+   ],
+    "S23FGR_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> FROMIS_9 Gyuri**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1118414111689146418/breadcrumb2_20230614132902.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23FGR_5`"
+        }
+   ],
+    "S23FJS_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> FROMIS_9 Jisun**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1118414112171499603/breadcrumb2_20230614133433.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23FJS_5`"
+        }
+   ],
+    "S23FSY_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> FROMIS_9 Seoyeon**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1118414112553185341/breadcrumb2_20230614133309.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23FSY_5`"
+        }
+   ],
+    "S23FCY_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> FROMIS_9 Chaeyoung**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1118414112951640185/breadcrumb2_20230614133522.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23FCY_5`"
+        }
+   ],
+    "S23FNG_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> FROMIS_9 Nagyung**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1118414113719201812/breadcrumb2_20230614133143.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23FNG_5`"
+        }
+   ],
+    "S23FJH_5": [
+        {
+            "name": "**<:asm23:1117351700500598785> FROMIS_9 Jiheon**",
+            "image": "https://media.discordapp.net/attachments/1115251758948687872/1118414114222506044/breadcrumb2_20230614133226.png?width=485&height=668",
+            "theme": "card1",
+            "inv": "SM23",
+            "grade": "1star",
+            "code": "`S23FJH_5`"
+        }
    ]
 }
