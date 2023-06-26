@@ -448,5 +448,126 @@
             "grade": "1star",
             "code": "`S23FJH_5`"
         }
-   ]
+
+    ], 
+     "S23RIR_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> RED VELVET Irene**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1118460152257978429/bread_card_Summer_Irene.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23RIR_5`" 
+         }
+    ], 
+     "S23RSG_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> RED VELVET Seulgi**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1118460152773885992/bread_card_Summer_Seulgi.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23RSG_5`" 
+         }
+    ], 
+     "S23RWD_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> RED VELVET Wendy**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1118460153218473994/bread_card_Summer_Wendy.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23RWD_5`" 
+         }
+    ], 
+     "S23RJO_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> RED VELVET Joy**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1118460153595953193/bread_card_Summer_Joy.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23RJO_5`" 
+         }
+    ], 
+     "S23RYR_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> RED VELVET Yeri**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1118460154099286026/bread_card_Summer_Yeri.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23RYR_5`" 
+         }
+    ], 
+     "S23CBX_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> CIX BX**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1122387125405503518/BX_sm.png.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23CBX_5`" 
+         }
+    ], 
+     "S23CSH_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> CIX Seunghun**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1122387125803958322/SEUNGHUN_sm.png.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23CSH_5`" 
+         }
+    ], 
+     "S23CYH_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> CIX Yonghee**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1122387126194016276/YONGHEE_sm.png.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23CYH_5`" 
+         }
+    ], 
+     "S23CBJ_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> CIX Bae Jinyoung**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1122387126546354226/BAEJINYOUNG_sm.png.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23CBJ_5`" 
+         }
+    ], 
+     "S23CHS_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> CIX Hyunsuk**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1122387126907060284/HYUNSUK_sm.png.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23CHS_5`" 
+         }
+    ], 
+     "S23SMWH_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> Soloist Wonho**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1121657676477247538/bread_card_Summer_Wonho.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23SMWH_5`" 
+         }
+    ], 
+     "S23SFSM_5": [ 
+         { 
+             "name": "**<:asm23:1117351700500598785> Soloist Sunmi**", 
+             "image": "https://media.discordapp.net/attachments/1115251758948687872/1122422015710740560/SUNMI_sm_20230625145806.png", 
+             "theme": "card1", 
+             "inv": "SM23", 
+             "grade": "1star", 
+             "code": "`S23SFSM_5`" 
+         } 
+    ]
 }
